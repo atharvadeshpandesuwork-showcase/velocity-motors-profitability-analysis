@@ -15,6 +15,36 @@ The analysis aims to provide actionable insights to improve overall business per
 
 ---
 
+## Tools Used
+- MySQL
+- Power Point
+- Excel
+
+---
+
+## Concepts Used
+- Joins
+- Aggregations
+- Case Statements
+- CTE
+- Window Functions
+- Ranking Functions
+---
+
+## Key Findings
+
+### Revenue Analysis
+- Mumbai North Showroom generated the highest revenue.
+- Premium vehicles contributed a major share of revenue.
+
+### Profitability Analysis
+- Delhi achieved higher gross margins.
+- Delhi generated higher profit per vehicle.
+
+### Operational Efficiency
+- Delhi maintained lower operating costs.
+- Delhi generated higher profir per vehicle.
+
 
 
 
