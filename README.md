@@ -1,3 +1,20 @@
+## Dataset Information
+
+The dataset used in this project is synthetically generated and not represent real delarship transactions. The dataset was generated using python scripts with the assistance of Claude AI to simulate a realistic automobile delaership environment, including:
+
+- Customer Information
+- Vehicle Inventory
+- Sales Transactions
+- Finaning records
+- Marketing Campgains
+- Test Drives
+- Service records
+- Branch Operations
+
+The dataset was designed to mimic real-world business scenarios and suppourt analytical tasks such as revenue analysis, profitability evalustion, margin analysis and branch expansion recommendations.
+
+---
+
 ## Business Problem
 
 Velocity Motors pvt limited is a multi-automobile delearship operating accross several cities offering brand new and certified used cars, finaing options and after sales services. Despite consistent growth in sales volume accross branches the management has observed siginifcant variation in profitability and operational efficieny. Some branches generate stong revenue but fail to convert it into profit while others demontrate better margin performance.
@@ -12,6 +29,8 @@ The analysis aims to provide actionable insights to improve overall business per
 - How does product mix influence performance ?
 - Where are the efficiency gaps accross branches ?
 - Which branches are strong candidates for expansion based on performance and efficiency ?
+
+Note: This project uses synthetic data generated through Python and Claude AI for educational and portfolio purposes.
 
 ---
 
@@ -44,6 +63,16 @@ The analysis aims to provide actionable insights to improve overall business per
 ### Operational Efficiency
 - Delhi maintained lower operating costs.
 - Delhi generated higher profir per vehicle.
+
+### Expansion Recomendation
+
+Delhi North Showroom is recommended branch for expansion due to:
+- Higher profitablity efficiency.
+- Lower Operating Costs.
+- Better revenue to profit conversion.
+- Stronger long term sustainability.
+
+---
 
 
 
