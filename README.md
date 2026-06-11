@@ -111,8 +111,9 @@ Delhi North Showroom is recommended branch for expansion due to:
 
 ---
 
-***Author***
-Atharva Deshpande
+## Author
+
+**Atharva Deshpande**
 
 
 
