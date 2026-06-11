@@ -87,6 +87,9 @@ Delhi North Showroom is recommended branch for expansion due to:
 ### Premium vs Standard Vehicle revenue
 ![Premium vs Standard Vehicle revenue](Snapshots/premium-vs-standard-vehicle-revenue.png)
 
+### Gross Margin Comparison
+![Gross Margin Comparison](Snapshots/gross-margin-analysis.png)
+
 
 
 
