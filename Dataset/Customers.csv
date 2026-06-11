@@ -1,0 +1,1201 @@
+Customer_id,Full_Name,Gender,Age,City,Occupation,Annual_income,First_purchase_date
+1,Rajesh Mukherjee,Male,45,Nagpur,Manager,825731.29,06-03-2022
+2,Yamini Pandey,Male,26,Bangalore,Doctor,2745713.77,08-02-2023
+3,Akash Shah,Male,42,Coimbatore,Software Engineer,1924147.64,NULL
+4,Naveen Pandey,Male,21,Jaipur,Accountant,1067288.34,15-05-2024
+5,Rajan Desai,Female,29,Chennai,Marketing Professional,1436654.59,25-05-2023
+6,Mansi Chopra,Female,27,Delhi,Retired,351782.18,28-11-2022
+7,Sanjay Pillai,Female,41,Indore,Government Employee,1057442.08,23-08-2023
+8,Ananya Mukherjee,Male,28,Pune,Government Employee,924350.93,18-03-2024
+9,Shruti Kulkarni,Male,21,Kolkata,Government Employee,995991.19,28-08-2023
+10,Ankit Singh,Female,33,Pune,Business Owner,2841915.69,06-06-2022
+11,Divya Dubey,Male,32,Coimbatore,Accountant,527985.6,16-09-2022
+12,Isha Sharma,Female,25,Hyderabad,Lawyer,1553676.71,15-02-2022
+13,Sneha Joshi,Male,38,Chennai,Accountant,1107830.76,22-09-2023
+14,Shubham Yadav,Female,21,Chandigarh,Retired,201298.13,06-10-2022
+15,Chetna Iyer,Male,33,Chennai,Doctor,3637452,24-04-2023
+16,Sapna Sharma,Male,51,Patna,Lawyer,3379099.34,17-06-2023
+17,Lokesh Malhotra,Male,21,Bangalore,Software Engineer,990175.13,21-07-2022
+18,Sanjay Desai,Female,60,Pune,Doctor,3249341.27,26-12-2022
+19,Chetna Banerjee,Female,30,Ahmedabad,Accountant,780225.9,27-02-2023
+20,Rekha Chatterjee,Female,35,Coimbatore,Marketing Professional,811716.29,23-09-2024
+21,Isha Chopra,Male,39,Mumbai,Doctor,1894135.72,18-01-2023
+22,Nikhil Chopra,Male,38,Delhi,Doctor,3181954.65,13-07-2022
+23,Tanya Pillai,Male,29,Patna,Farmer,265649.97,21-05-2022
+24,Ritu Iyer,Male,37,Surat,Government Employee,1027695.54,28-10-2023
+25,Pradeep Singh,Male,22,Indore,Sales Executive,554147.17,15-01-2022
+26,Kunal Iyer,Male,41,Coimbatore,Freelancer,1320174.3,08-10-2022
+27,Deepak Chatterjee,Female,36,Hyderabad,Business Owner,2456279.22,22-06-2023
+28,Preeti Sharma,Female,45,Kolkata,Software Engineer,1908646.32,11-10-2022
+29,Nikhil Nair,Male,21,Nagpur,Business Owner,2388221.85,04-06-2023
+30,Nisha Das,Male,40,Patna,Teacher,666933.13,04-03-2022
+31,Preeti Singh,Female,38,Delhi,Business Owner,1435550.62,06-02-2022
+32,Geeta Jain,Male,41,Chandigarh,Software Engineer,1793101.91,17-12-2023
+33,Varun Srivastava,Male,41,Kolkata,Doctor,3583759.13,08-10-2024
+34,Yamini Patel,Male,39,Chandigarh,Architect,1432326.81,06-07-2022
+35,Varun Kapoor,Male,42,Lucknow,Sales Executive,860823.75,05-10-2022
+36,Deepak Sharma,Male,53,Hyderabad,Retired,326470.88,12-01-2023
+37,Kavita Kumar,Female,32,Bhopal,Doctor,2705376.33,12-11-2022
+38,Preeti Ghosh,Male,37,Chandigarh,Teacher,320986.07,22-11-2022
+39,Manoj Mehta,Male,21,Hyderabad,Software Engineer,1935367.45,06-04-2023
+40,Tarun Das,Male,30,Indore,Marketing Professional,1053223.64,10-10-2023
+41,Pranav Singh,Male,45,Surat,Government Employee,949997.7,06-06-2022
+42,Aarav Tiwari,Female,28,Jaipur,Farmer,246838.08,06-06-2022
+43,Vivek Joshi,Male,27,Pune,Business Owner,3861416,18-10-2023
+44,Rekha Kulkarni,Male,34,Surat,Lawyer,993673.16,19-05-2022
+45,Rajesh Shukla,Male,22,Kolkata,Business Owner,784046.98,28-04-2022
+46,Mansi Agarwal,Female,55,Pune,Accountant,482234.9,09-01-2023
+47,Ritu Verma,Male,56,Indore,Government Employee,1091684.56,17-09-2022
+48,Kunal Bose,Male,35,Hyderabad,Freelancer,1410060.65,03-03-2022
+49,Nisha Shukla,Male,42,Kolkata,Manager,1833816.82,17-01-2023
+50,Aditya Srivastava,Male,32,Bangalore,Government Employee,418931.55,NULL
+51,Varsha Tiwari,Female,31,Hyderabad,Freelancer,562862.49,12-07-2023
+52,Shubham Gupta,Male,30,Surat,Teacher,330355.52,06-10-2023
+53,Usha Joshi,Male,32,Ahmedabad,Sales Executive,737127.04,14-04-2022
+54,Komal Sharma,Male,50,Ahmedabad,Teacher,269973.94,NULL
+55,Yamini Mishra,Female,59,Hyderabad,Sales Executive,558778.44,22-05-2023
+56,Geeta Ghosh,Female,30,Indore,Marketing Professional,1400046.84,13-04-2023
+57,Neha Reddy,Male,31,Lucknow,Manager,1606370.94,05-12-2023
+58,Aarav Ghosh,Male,35,Surat,Manager,1412318.38,08-11-2023
+59,Pallavi Pillai,Male,31,Chennai,Freelancer,953980.22,21-12-2022
+60,Usha More,Male,28,Kolkata,Accountant,467836.43,NULL
+61,Rajesh Malhotra,Female,39,Bangalore,Accountant,648335.57,25-08-2023
+62,Harini Iyer,Female,32,Nagpur,Retired,365776.4,01-10-2023
+63,Manoj Banerjee,Male,47,Chandigarh,Retired,359861.15,06-06-2024
+64,Kunal Joshi,Male,50,Coimbatore,Retired,220087.35,18-07-2023
+65,Pallavi More,Female,29,Chandigarh,Accountant,824905.51,23-05-2022
+66,Isha Chatterjee,Female,34,Patna,Manager,1779739.92,01-10-2023
+67,Archana Chaudhary,Female,38,Jaipur,Retired,303676.62,10-02-2022
+68,Ajay Malhotra,Male,52,Indore,Retired,230993.34,16-11-2022
+69,Harish Pillai,Male,43,Surat,Lawyer,1109501.91,07-02-2022
+70,Swati Singh,Male,45,Surat,Sales Executive,625566.68,23-05-2023
+71,Harini Dubey,Male,24,Bhopal,Manager,1876290.02,13-08-2022
+72,Swati Desai,Female,30,Kolkata,Teacher,589063.81,16-05-2023
+73,Sneha Srivastava,Female,35,Coimbatore,Retired,287768.65,02-08-2022
+74,Varsha Verma,Female,38,Mumbai,Business Owner,4915176.7,03-06-2022
+75,Vikas Kapoor,Male,45,Ahmedabad,Doctor,2999699.01,13-02-2022
+76,Neha Bose,Female,46,Surat,Retired,330738.32,15-12-2022
+77,Vikas Shukla,Male,21,Bangalore,Teacher,625709.91,23-02-2022
+78,Rajesh Verma,Female,41,Ahmedabad,Freelancer,1444471.28,03-07-2023
+79,Kiran Patil,Female,40,Coimbatore,Farmer,157133.01,28-10-2022
+80,Rekha Nair,Male,42,Hyderabad,Marketing Professional,756243.7,25-06-2022
+81,Amit Ghosh,Male,42,Nagpur,Freelancer,1265091.53,08-09-2022
+82,Sachin Kumar,Male,36,Kolkata,Manager,1923911.78,20-03-2023
+83,Vikram Patil,Female,33,Bhopal,Doctor,3152140.41,05-09-2024
+84,Rekha Kumar,Male,52,Indore,Lawyer,2013782.83,01-04-2023
+85,Meena Mukherjee,Female,40,Surat,Software Engineer,2244278.57,18-12-2023
+86,Tarun More,Female,33,Patna,Business Owner,3828699.34,24-01-2022
+87,Kunal Patel,Male,37,Coimbatore,Retired,374229.8,06-08-2023
+88,Jyoti More,Female,30,Indore,Government Employee,1000381.03,02-02-2024
+89,Sunita Kapoor,Male,32,Jaipur,Software Engineer,1640321.06,10-06-2022
+90,Aditya Patel,Male,48,Surat,Lawyer,926392.9,13-02-2022
+91,Tanya Chatterjee,Female,38,Bangalore,Retired,422070.48,26-05-2022
+92,Kunal Ghosh,Female,49,Bhopal,Teacher,349718.38,22-09-2022
+93,Isha Tiwari,Male,21,Coimbatore,Retired,421389.18,28-03-2022
+94,Akash Joshi,Female,66,Indore,Teacher,387980.35,26-10-2022
+95,Aditya Pillai,Female,52,Jaipur,Doctor,3280066.98,16-05-2023
+96,Sapna Naik,Male,33,Hyderabad,Marketing Professional,1089586.91,13-12-2023
+97,Vivek Desai,Male,38,Delhi,Farmer,217941.15,16-05-2023
+98,Arjun Chaudhary,Male,44,Mumbai,Software Engineer,1740710.24,11-02-2023
+99,Vikas Kapoor,Female,28,Patna,Architect,998075.06,NULL
+100,Sonal Chaudhary,Male,39,Delhi,Doctor,3501923.81,12-10-2022
+101,Kunal Joshi,Male,30,Surat,Business Owner,1256469.37,23-01-2023
+102,Yamini Chopra,Female,34,Nagpur,Architect,1434577.58,08-09-2022
+103,Shruti Ghosh,Male,34,Delhi,Retired,563401.75,16-12-2023
+104,Pradeep Pillai,Female,50,Jaipur,Architect,1944152.29,02-12-2023
+105,Naveen Sharma,Male,38,Patna,Accountant,464949.97,01-07-2022
+106,Ajay Das,Female,50,Coimbatore,Teacher,264687.93,07-09-2023
+107,Simran Iyer,Male,53,Kolkata,Doctor,3124677.78,10-03-2023
+108,Tarun Rao,Male,29,Chennai,Accountant,519191.52,11-02-2024
+109,Ajay Chatterjee,Male,37,Lucknow,Freelancer,599895.36,09-10-2022
+110,Tarun Yadav,Male,25,Coimbatore,Marketing Professional,902508.52,11-09-2022
+111,Chetna Kapoor,Male,50,Kolkata,Doctor,2874502.65,12-10-2022
+112,Harini Kulkarni,Female,27,Jaipur,Accountant,1068766.89,15-10-2022
+113,Pallavi Bose,Male,38,Surat,Architect,656324.34,17-04-2023
+114,Ankit Saxena,Male,26,Indore,Accountant,1051395.96,21-07-2022
+115,Lakshmi Das,Female,43,Nagpur,Sales Executive,702080.11,27-09-2024
+116,Suresh Mukherjee,Male,31,Jaipur,Farmer,416174.92,16-10-2022
+117,Aarav Desai,Male,40,Delhi,Sales Executive,369552.96,13-07-2024
+118,Yamini Chaudhary,Female,21,Delhi,Government Employee,814751.51,12-03-2022
+119,Tanya Joshi,Male,43,Kolkata,Government Employee,613644.99,02-11-2022
+120,Isha Sharma,Male,44,Bangalore,Marketing Professional,658378.16,06-03-2022
+121,Vikram Rao,Male,47,Lucknow,Government Employee,1193805.71,28-09-2022
+122,Swati Saxena,Female,32,Kolkata,Lawyer,2734070.24,11-01-2024
+123,Usha Mehta,Female,21,Jaipur,Retired,420506.03,17-12-2023
+124,Swati Tiwari,Female,53,Chandigarh,Freelancer,1227008.04,20-01-2024
+125,Simran Kulkarni,Female,36,Patna,Teacher,619247.26,25-10-2023
+126,Varsha Saxena,Male,46,Nagpur,Farmer,202008.4,28-03-2022
+127,Varun Patil,Male,57,Surat,Retired,573140.9,22-05-2023
+128,Bhavna Dubey,Male,21,Pune,Software Engineer,1340899.76,27-08-2023
+129,Pooja Shah,Female,56,Coimbatore,Retired,585929.78,20-09-2023
+130,Nisha Sharma,Female,56,Surat,Doctor,2672663.04,25-03-2023
+131,Shubham Tiwari,Female,44,Nagpur,Farmer,379173.46,13-08-2023
+132,Pooja Desai,Male,47,Indore,Accountant,464252.26,07-12-2022
+133,Suresh More,Male,39,Lucknow,Accountant,974973.94,02-05-2022
+134,Komal Shah,Female,21,Hyderabad,Government Employee,997413.09,27-09-2022
+135,Anjali Singh,Male,37,Bhopal,Retired,266545.91,18-12-2022
+136,Sapna Agarwal,Male,40,Chennai,Manager,889240.73,13-07-2024
+137,Varun Chaudhary,Female,30,Pune,Business Owner,1370305.16,26-03-2023
+138,Pranav Mukherjee,Male,31,Mumbai,Government Employee,768919.93,23-03-2022
+139,Deepak Chatterjee,Female,35,Lucknow,Freelancer,804829.23,27-09-2022
+140,Pranav Mukherjee,Female,50,Ahmedabad,Accountant,1169623.26,17-06-2022
+141,Sunita Patil,Male,45,Lucknow,Manager,1809336.1,12-10-2024
+142,Ananya Bose,Male,44,Delhi,Software Engineer,2462505.62,20-01-2023
+143,Akash Naik,Female,48,Kolkata,Architect,1643241.02,02-01-2024
+144,Pranav Mehta,Female,21,Delhi,Accountant,552105.59,14-07-2022
+145,Arjun Patel,Female,47,Indore,Teacher,604874.72,NULL
+146,Sachin Mehta,Female,39,Bhopal,Marketing Professional,915503.09,15-10-2022
+147,Shilpa Das,Female,37,Indore,Lawyer,2204666.38,21-02-2023
+148,Deepak Rao,Female,43,Kolkata,Freelancer,349720.62,10-05-2024
+149,Mansi Pandey,Male,33,Nagpur,Farmer,386713.3,28-11-2022
+150,Vikram Mukherjee,Male,29,Jaipur,Software Engineer,1249579.58,19-02-2023
+151,Akash Saxena,Male,31,Indore,Architect,1133435.7,17-01-2023
+152,Sanjay Mukherjee,Female,30,Lucknow,Architect,909914.08,04-01-2022
+153,Sumit Chaudhary,Male,53,Kolkata,Accountant,726636.68,02-04-2022
+154,Nisha Pandey,Female,56,Surat,Lawyer,1252726.53,23-01-2024
+155,Pradeep Chaudhary,Male,43,Jaipur,Architect,1639176.62,09-10-2022
+156,Pankaj Chatterjee,Male,46,Kolkata,Software Engineer,1973477.13,15-04-2023
+157,Sunita Singh,Male,47,Ahmedabad,Farmer,276940.11,12-04-2022
+158,Nisha Patel,Female,36,Mumbai,Doctor,3857230.21,04-11-2022
+159,Jyoti Pillai,Male,38,Ahmedabad,Software Engineer,2137550.8,07-06-2022
+160,Akash Tiwari,Female,43,Mumbai,Architect,902331.89,14-09-2023
+161,Pranav Reddy,Male,41,Mumbai,Teacher,636282.76,25-02-2022
+162,Varun Kulkarni,Male,42,Chennai,Business Owner,665385.44,17-04-2022
+163,Sanjay Saxena,Male,37,Bhopal,Teacher,273579.56,08-03-2022
+164,Deepa Yadav,Male,25,Delhi,Lawyer,2443531.65,05-07-2023
+165,Nisha Verma,Male,46,Patna,Marketing Professional,1283227,01-03-2022
+166,Manoj Chaudhary,Female,28,Coimbatore,Farmer,290566.04,02-01-2023
+167,Arjun Bose,Female,35,Indore,Doctor,3717946.94,15-06-2022
+168,Sapna Das,Male,43,Surat,Manager,1993016.08,NULL
+169,Isha Pillai,Male,48,Kolkata,Doctor,3420669.06,16-03-2022
+170,Nisha Srivastava,Male,47,Hyderabad,Manager,1140611.1,07-02-2022
+171,Harish Saxena,Male,33,Bangalore,Sales Executive,556058.4,07-08-2022
+172,Rekha Mehta,Male,29,Indore,Doctor,2409254.25,06-10-2023
+173,Shruti Singh,Female,29,Lucknow,Accountant,497785.03,NULL
+174,Geeta Pillai,Male,49,Patna,Sales Executive,362160.34,10-11-2022
+175,Kiran Bose,Male,30,Surat,Government Employee,1077819.88,06-08-2023
+176,Yamini More,Female,48,Mumbai,Farmer,346338,16-07-2022
+177,Gaurav Bose,Female,41,Lucknow,Architect,1900718.01,18-10-2022
+178,Gaurav Rao,Male,31,Nagpur,Sales Executive,510614.05,28-04-2022
+179,Sapna Pillai,Male,36,Coimbatore,Doctor,1597249.03,25-11-2022
+180,Lokesh Mishra,Female,36,Bangalore,Sales Executive,394445.57,22-06-2024
+181,Rohit Bose,Male,38,Surat,Software Engineer,1064485.84,06-10-2023
+182,Swati Bose,Male,34,Chandigarh,Retired,442830.4,16-03-2024
+183,Simran Chaudhary,Male,49,Lucknow,Doctor,2166484,13-04-2024
+184,Rupali Singh,Male,47,Lucknow,Software Engineer,1174881.34,19-03-2022
+185,Vikram Sharma,Male,38,Surat,Government Employee,1013879.62,27-04-2022
+186,Varsha Chopra,Male,29,Bhopal,Business Owner,1168417.09,11-08-2023
+187,Nisha Kumar,Female,37,Surat,Doctor,2311799.29,15-06-2022
+188,Swati Das,Male,27,Mumbai,Architect,1166192.04,03-09-2022
+189,Meena Patel,Male,48,Hyderabad,Sales Executive,403123.91,07-02-2024
+190,Sonal Jain,Male,34,Lucknow,Government Employee,748541.22,22-10-2023
+191,Usha Joshi,Male,34,Ahmedabad,Marketing Professional,839513.28,07-10-2023
+192,Sandeep Malhotra,Male,43,Jaipur,Freelancer,654187.85,19-11-2022
+193,Deepak Reddy,Female,47,Patna,Government Employee,538799.22,04-05-2023
+194,Apurva Chatterjee,Female,51,Indore,Retired,501778.33,17-12-2023
+195,Bhavna Chatterjee,Female,33,Jaipur,Farmer,489840.57,12-07-2022
+196,Geeta Kumar,Male,47,Coimbatore,Architect,678640.97,22-04-2023
+197,Ankit More,Male,39,Nagpur,Software Engineer,896713.09,06-01-2022
+198,Rajesh Chatterjee,Female,34,Ahmedabad,Retired,432131.76,27-01-2022
+199,Deepa Shah,Female,21,Indore,Sales Executive,663003.5,24-08-2022
+200,Mohit Gupta,Male,37,Coimbatore,Marketing Professional,584329.13,06-07-2024
+201,Ajay Dubey,Male,30,Indore,Retired,409627.42,26-02-2023
+202,Pooja Kumar,Male,31,Nagpur,Accountant,878308.69,02-04-2022
+203,Chetna Rao,Male,53,Pune,Teacher,363398.1,19-07-2023
+204,Ananya Mehta,Male,21,Bangalore,Sales Executive,486139.04,01-09-2024
+205,Arjun Jain,Male,32,Surat,Teacher,501514.93,04-10-2022
+206,Meena Ghosh,Male,31,Ahmedabad,Lawyer,1840753.05,07-07-2023
+207,Ravi Rao,Male,30,Hyderabad,Sales Executive,868600.96,02-09-2024
+208,Sapna Gupta,Female,38,Pune,Lawyer,2904274.27,21-04-2023
+209,Yamini Nair,Female,47,Delhi,Architect,1127407.82,11-08-2024
+210,Varun Chatterjee,Male,54,Coimbatore,Manager,1173589.24,17-06-2022
+211,Bhavna Iyer,Male,31,Coimbatore,Government Employee,827208.92,04-04-2024
+212,Neha Yadav,Male,54,Chennai,Retired,507775.42,21-11-2022
+213,Vikas Saxena,Female,21,Hyderabad,Farmer,219894.21,17-07-2023
+214,Vikram Das,Male,25,Chennai,Marketing Professional,1345892.28,14-06-2023
+215,Ankit Chopra,Female,21,Bhopal,Teacher,452193.65,11-10-2024
+216,Ananya Yadav,Male,36,Nagpur,Software Engineer,1505324.74,13-08-2023
+217,Pooja Rao,Male,60,Lucknow,Doctor,2249755.49,09-01-2023
+218,Ravi Saxena,Male,42,Mumbai,Farmer,315359.23,24-07-2022
+219,Chetna Jain,Male,39,Lucknow,Doctor,1253210.88,03-12-2022
+220,Vikas Malhotra,Male,43,Coimbatore,Government Employee,640920.96,21-11-2022
+221,Rahul Yadav,Male,49,Pune,Doctor,1510402.11,25-02-2022
+222,Vandana Shukla,Male,30,Surat,Teacher,443157.5,18-07-2023
+223,Sanjay Jain,Male,61,Chandigarh,Business Owner,3523233.73,05-05-2023
+224,Bhavna Gupta,Female,51,Bhopal,Lawyer,952869.2,15-03-2022
+225,Varun Shah,Female,35,Indore,Teacher,586292.47,23-11-2023
+226,Preeti Tiwari,Female,40,Chennai,Business Owner,795077.03,23-02-2022
+227,Gaurav Mehta,Male,22,Coimbatore,Farmer,422699.91,14-03-2024
+228,Rajesh Iyer,Female,41,Indore,Software Engineer,1298852.37,NULL
+229,Pranav Gupta,Female,50,Ahmedabad,Teacher,481922.62,22-10-2024
+230,Vikas Tiwari,Male,37,Bhopal,Teacher,410638.38,24-08-2023
+231,Divya Tiwari,Female,37,Patna,Manager,1856332.47,11-12-2023
+232,Archana Bose,Female,21,Surat,Marketing Professional,997523.39,24-05-2023
+233,Vijay Mishra,Male,44,Indore,Doctor,2405700.03,05-07-2023
+234,Deepa Naik,Female,37,Chennai,Accountant,636511.96,12-11-2022
+235,Sunita More,Female,22,Jaipur,Marketing Professional,943908.38,17-04-2023
+236,Nikhil Kumar,Female,43,Nagpur,Accountant,1184021.82,06-03-2022
+237,Amit Rao,Female,37,Coimbatore,Sales Executive,607851.61,21-06-2023
+238,Varun Pandey,Male,32,Delhi,Software Engineer,1014591.04,22-08-2022
+239,Pallavi Kumar,Male,28,Chandigarh,Architect,814813.43,01-04-2022
+240,Yash Malhotra,Female,40,Mumbai,Sales Executive,538820.43,18-10-2022
+241,Vikram Kapoor,Female,21,Coimbatore,Marketing Professional,686048.05,19-09-2022
+242,Ajay Chaudhary,Male,35,Pune,Government Employee,1197092.09,04-02-2022
+243,Ankit Mishra,Female,45,Bangalore,Farmer,175918.21,03-11-2024
+244,Sumit Nair,Female,51,Chennai,Lawyer,2309645.54,27-08-2022
+245,Ravi Malhotra,Female,42,Mumbai,Freelancer,669939.84,01-09-2023
+246,Rekha Mukherjee,Female,66,Pune,Sales Executive,632412.86,07-11-2022
+247,Shilpa Jain,Male,47,Surat,Architect,1837945.03,28-06-2022
+248,Arjun Mishra,Female,42,Coimbatore,Farmer,351215.18,02-05-2022
+249,Isha Kulkarni,Male,26,Pune,Retired,472043.6,01-11-2022
+250,Nikhil Joshi,Male,54,Lucknow,Manager,1353722.92,03-06-2022
+251,Archana Das,Female,44,Jaipur,Business Owner,1312654.62,25-05-2023
+252,Isha Bose,Male,35,Lucknow,Government Employee,908045.67,05-11-2022
+253,Apurva Rao,Male,31,Indore,Architect,1346869.24,18-04-2023
+254,Rajesh Verma,Male,37,Jaipur,Farmer,473375.4,14-05-2023
+255,Amit Chaudhary,Female,25,Lucknow,Accountant,568646.7,09-01-2022
+256,Shilpa Malhotra,Female,31,Nagpur,Accountant,1165320.14,27-05-2023
+257,Swati Saxena,Male,35,Indore,Teacher,454094.86,25-12-2024
+258,Priya Shukla,Female,32,Pune,Architect,801136.17,20-03-2022
+259,Meghna Joshi,Male,29,Kolkata,Freelancer,681702.26,19-11-2022
+260,Vijay Dubey,Female,34,Surat,Business Owner,1025971.27,18-06-2023
+261,Harini Mishra,Male,52,Chennai,Government Employee,1170148.68,05-04-2024
+262,Meghna Chaudhary,Female,27,Patna,Retired,598387.76,13-02-2022
+263,Varun Pillai,Male,29,Delhi,Software Engineer,953083.46,15-02-2022
+264,Rupali Saxena,Male,44,Mumbai,Software Engineer,1278305.78,15-06-2023
+265,Meena Srivastava,Male,43,Nagpur,Farmer,187623.98,02-10-2023
+266,Aditya Pandey,Male,43,Bangalore,Software Engineer,1769478.79,17-11-2022
+267,Yamini More,Male,38,Hyderabad,Manager,1355532.19,10-02-2023
+268,Sneha Thakur,Female,29,Pune,Manager,1185157.84,04-02-2022
+269,Suresh Mehta,Female,35,Patna,Government Employee,881970.36,NULL
+270,Chetna Yadav,Male,39,Indore,Lawyer,2088170.25,15-07-2022
+271,Simran Tiwari,Male,23,Chandigarh,Business Owner,2329000.19,08-08-2022
+272,Jyoti Ghosh,Male,25,Mumbai,Lawyer,2173601.3,NULL
+273,Lokesh Verma,Male,46,Jaipur,Sales Executive,498743.76,13-03-2023
+274,Apurva Patil,Male,44,Delhi,Accountant,1026323.19,01-03-2023
+275,Neha Rao,Female,22,Kolkata,Architect,1272628.3,27-06-2023
+276,Kiran Iyer,Male,35,Indore,Software Engineer,1773369.46,24-07-2023
+277,Vandana Saxena,Female,34,Delhi,Manager,896860.64,25-10-2022
+278,Dinesh Thakur,Male,28,Patna,Marketing Professional,638082.49,19-04-2022
+279,Varsha Tiwari,Male,48,Jaipur,Lawyer,1879744.42,13-11-2022
+280,Kunal Bose,Male,35,Kolkata,Architect,1277852.14,25-07-2023
+281,Tanya Mishra,Male,33,Jaipur,Teacher,597028.42,02-01-2022
+282,Preeti Dubey,Female,23,Nagpur,Teacher,304843.35,22-05-2023
+283,Rajesh Das,Female,38,Bangalore,Farmer,270797.14,11-02-2022
+284,Pranav Saxena,Male,32,Jaipur,Sales Executive,854405.78,12-12-2023
+285,Simran Malhotra,Male,46,Chandigarh,Lawyer,2710045.38,27-09-2023
+286,Vikas Shah,Male,48,Patna,Government Employee,910355.66,06-02-2023
+287,Naveen Agarwal,Female,54,Patna,Doctor,3107337.56,15-11-2022
+288,Ajay Mishra,Male,57,Delhi,Retired,460215.48,24-04-2023
+289,Suresh Reddy,Male,26,Chennai,Freelancer,316298.94,24-07-2023
+290,Ananya Chaudhary,Male,32,Lucknow,Software Engineer,2495192.07,15-07-2022
+291,Pooja Das,Male,33,Chandigarh,Software Engineer,815754.19,01-08-2022
+292,Ravi Yadav,Male,36,Ahmedabad,Retired,555703.99,08-10-2022
+293,Pranav Reddy,Male,43,Indore,Freelancer,346440.79,04-12-2023
+294,Aditya Reddy,Male,47,Nagpur,Freelancer,583531.53,25-09-2023
+295,Pradeep Reddy,Female,33,Patna,Farmer,299696.14,01-04-2022
+296,Aarav Kapoor,Male,46,Coimbatore,Sales Executive,861495.23,27-05-2024
+297,Harini Sharma,Male,31,Bhopal,Freelancer,547092.63,19-10-2022
+298,Vikram Mukherjee,Male,49,Nagpur,Marketing Professional,736302.58,25-09-2023
+299,Lokesh Joshi,Female,50,Lucknow,Accountant,802016.38,28-06-2022
+300,Nitin Mehta,Male,28,Coimbatore,Sales Executive,668775.27,08-12-2022
+301,Bhavna Desai,Female,27,Ahmedabad,Marketing Professional,1488837.96,13-06-2022
+302,Rupali Patel,Male,49,Chandigarh,Freelancer,521705.06,04-03-2024
+303,Isha Yadav,Male,42,Pune,Marketing Professional,861784.87,13-04-2024
+304,Archana Chatterjee,Male,35,Ahmedabad,Business Owner,2043717.61,07-04-2022
+305,Nikhil Mukherjee,Male,48,Surat,Marketing Professional,1083147.68,05-10-2022
+306,Mansi Mukherjee,Female,44,Lucknow,Retired,425564.47,NULL
+307,Pankaj Kulkarni,Male,37,Surat,Marketing Professional,521770.46,11-11-2022
+308,Preeti Singh,Female,38,Bangalore,Sales Executive,720230.93,10-05-2024
+309,Swati Pandey,Female,23,Nagpur,Retired,212693.95,19-04-2022
+310,Neha Dubey,Male,47,Pune,Retired,547848.11,21-09-2023
+311,Ananya Jain,Male,61,Kolkata,Accountant,1088229.26,07-10-2022
+312,Rahul Ghosh,Male,59,Surat,Farmer,151215.65,13-01-2022
+313,Harish Bose,Male,39,Hyderabad,Lawyer,1886118.82,10-10-2022
+314,Swati More,Female,49,Mumbai,Software Engineer,2176112.91,10-10-2023
+315,Rupali Singh,Male,40,Delhi,Government Employee,564865.3,11-09-2023
+316,Preeti Pillai,Female,39,Delhi,Manager,1270651.65,26-02-2024
+317,Harini Mishra,Male,33,Indore,Business Owner,2817141.74,26-11-2022
+318,Sandeep Jain,Male,55,Lucknow,Government Employee,641411.55,26-05-2022
+319,Mohit Banerjee,Male,57,Delhi,Teacher,277430.94,11-02-2023
+320,Neha Jain,Male,31,Surat,Sales Executive,864951.85,06-05-2023
+321,Bhavna Malhotra,Female,26,Lucknow,Manager,893982.89,28-09-2024
+322,Meghna Singh,Male,49,Surat,Farmer,397651.88,12-10-2022
+323,Pooja Patel,Female,32,Bhopal,Lawyer,2277978.72,09-04-2022
+324,Aditya Singh,Male,42,Delhi,Doctor,2699779.5,13-06-2023
+325,Mansi Pillai,Male,42,Indore,Farmer,175474.51,26-05-2022
+326,Vivek Pillai,Female,25,Hyderabad,Teacher,680658.89,01-09-2023
+327,Chetna Pillai,Male,30,Kolkata,Marketing Professional,1499572.01,17-02-2022
+328,Ajay Dubey,Male,38,Bhopal,Lawyer,1736199.02,05-12-2023
+329,Pradeep Saxena,Female,26,Indore,Teacher,367702.73,14-07-2022
+330,Ritu Gupta,Male,37,Kolkata,Government Employee,696563.94,01-09-2023
+331,Apurva Agarwal,Male,36,Ahmedabad,Marketing Professional,645922.71,13-02-2024
+332,Jyoti Malhotra,Male,61,Indore,Sales Executive,438011.18,14-04-2024
+333,Tanya Mukherjee,Male,22,Bhopal,Teacher,593512.28,20-12-2022
+334,Preeti Chaudhary,Male,39,Delhi,Business Owner,1215817.53,18-11-2022
+335,Vikas Sharma,Male,51,Kolkata,Lawyer,987941.77,24-04-2022
+336,Vivek Pillai,Male,21,Bhopal,Doctor,3180074.78,02-12-2022
+337,Shilpa Chaudhary,Male,31,Surat,Software Engineer,1850319.9,23-05-2023
+338,Yash Desai,Female,26,Mumbai,Software Engineer,828434.45,02-01-2022
+339,Mohit Shah,Female,29,Chandigarh,Lawyer,3014208.77,28-07-2023
+340,Yamini Jain,Male,21,Bhopal,Business Owner,1660262.86,02-06-2023
+341,Nisha Patil,Male,60,Kolkata,Teacher,607721.35,24-01-2023
+342,Rohit Gupta,Male,50,Nagpur,Teacher,557818.73,23-05-2023
+343,Rajan Patel,Male,39,Surat,Manager,1418511.87,01-06-2022
+344,Jyoti Shah,Female,38,Delhi,Accountant,1027501.05,02-10-2024
+345,Bhavna Bose,Male,52,Bangalore,Government Employee,569133.64,NULL
+346,Preeti Patil,Female,22,Chennai,Accountant,1140467.85,10-05-2022
+347,Ananya Kumar,Male,50,Kolkata,Farmer,260069.64,07-10-2024
+348,Divya Desai,Male,34,Pune,Architect,1768510.78,08-02-2022
+349,Kavita Singh,Male,36,Kolkata,Freelancer,1485021.35,12-03-2022
+350,Chetna More,Female,26,Nagpur,Farmer,176606.39,14-01-2023
+351,Deepa Chaudhary,Male,26,Nagpur,Freelancer,624289.64,12-04-2022
+352,Apurva Dubey,Male,24,Lucknow,Manager,941459.2,27-06-2022
+353,Neha Rao,Female,45,Indore,Freelancer,520384.72,22-03-2023
+354,Aarav Ghosh,Male,41,Jaipur,Sales Executive,363930.55,07-02-2024
+355,Mansi Yadav,Male,42,Mumbai,Doctor,1571019.61,22-08-2023
+356,Ankit Naik,Male,48,Indore,Doctor,2190960,20-11-2022
+357,Rohit Thakur,Female,35,Kolkata,Farmer,284833.27,06-07-2022
+358,Neha Nair,Male,47,Lucknow,Architect,1329546.34,09-07-2022
+359,Swati Ghosh,Male,47,Bangalore,Teacher,471905.77,08-09-2023
+360,Kunal Chaudhary,Male,42,Ahmedabad,Sales Executive,451019.84,23-01-2022
+361,Pooja More,Male,29,Indore,Retired,242788.95,27-07-2022
+362,Rupali Mehta,Male,60,Ahmedabad,Retired,333894.49,16-04-2022
+363,Vijay Chaudhary,Female,63,Kolkata,Retired,325673.31,13-11-2023
+364,Ananya Pandey,Male,32,Ahmedabad,Sales Executive,525633.18,18-01-2022
+365,Amit Mukherjee,Female,45,Ahmedabad,Architect,1996170.9,07-03-2022
+366,Sanjay Agarwal,Female,53,Pune,Retired,519074.21,06-02-2024
+367,Shruti Dubey,Male,37,Patna,Accountant,642266.11,13-05-2023
+368,Geeta Agarwal,Male,43,Bhopal,Architect,1161127.14,12-02-2022
+369,Rohit Shah,Female,24,Bhopal,Marketing Professional,1395501.52,25-06-2022
+370,Rajesh Patil,Female,34,Nagpur,Business Owner,3446799.33,11-02-2023
+371,Pradeep Kapoor,Male,39,Chandigarh,Freelancer,631075.71,24-06-2022
+372,Harini Chopra,Male,33,Nagpur,Lawyer,2409347.57,12-06-2024
+373,Kavita Verma,Male,27,Lucknow,Retired,508936.89,24-11-2022
+374,Rohit Joshi,Female,31,Pune,Manager,1896711.81,20-04-2024
+375,Shilpa Shukla,Male,31,Coimbatore,Sales Executive,487134.21,NULL
+376,Priya Kumar,Male,39,Hyderabad,Marketing Professional,1196763.27,17-06-2022
+377,Rajan Malhotra,Male,29,Chennai,Software Engineer,2243606.01,16-09-2022
+378,Meghna Chopra,Female,25,Chennai,Sales Executive,635909.37,21-04-2022
+379,Vandana Iyer,Male,35,Surat,Business Owner,3418107.06,21-10-2023
+380,Pankaj Pillai,Male,39,Bangalore,Manager,705785.06,08-10-2022
+381,Anjali Iyer,Male,42,Jaipur,Architect,742452.87,17-06-2022
+382,Sapna Mishra,Male,33,Nagpur,Accountant,1090109.24,13-06-2022
+383,Mohit Ghosh,Female,31,Bangalore,Architect,759924.9,23-07-2022
+384,Vikram Malhotra,Male,46,Chennai,Accountant,507158.22,19-01-2022
+385,Ravi Patil,Male,27,Chennai,Sales Executive,716061.93,26-01-2023
+386,Mohit Thakur,Male,37,Lucknow,Retired,454200.66,09-07-2022
+387,Sunita Sharma,Male,45,Ahmedabad,Business Owner,1423233.75,10-04-2023
+388,Mansi Yadav,Female,26,Surat,Farmer,284380.46,06-01-2023
+389,Rajan Patel,Male,35,Kolkata,Accountant,793380.7,08-08-2022
+390,Nitin Desai,Male,27,Coimbatore,Teacher,264712.79,16-05-2022
+391,Kiran Patil,Male,39,Bhopal,Architect,1639525.55,26-06-2024
+392,Rajesh Chatterjee,Male,25,Surat,Lawyer,3038788.41,09-08-2022
+393,Suresh Chatterjee,Male,33,Bangalore,Doctor,3260768.35,12-01-2022
+394,Vikram Malhotra,Male,31,Bhopal,Retired,546116.19,26-04-2024
+395,Ravi Pillai,Female,33,Delhi,Farmer,398763.89,28-03-2023
+396,Yash Naik,Male,33,Indore,Architect,1091141.67,07-07-2022
+397,Usha Shah,Male,21,Surat,Marketing Professional,792634.7,22-08-2023
+398,Arjun Mehta,Male,27,Indore,Software Engineer,2487226.58,16-01-2023
+399,Sandeep Patil,Female,43,Surat,Farmer,236644.16,13-08-2022
+400,Ankit Srivastava,Male,29,Jaipur,Manager,1287589.24,08-05-2022
+401,Anjali Kulkarni,Male,21,Bangalore,Marketing Professional,1436336.11,NULL
+402,Sunita Kumar,Female,55,Nagpur,Marketing Professional,1472150.29,05-10-2022
+403,Anjali Das,Male,43,Pune,Government Employee,1174502.86,01-01-2022
+404,Sneha Singh,Male,27,Coimbatore,Architect,1793391.61,NULL
+405,Aarav Banerjee,Male,44,Pune,Software Engineer,1011203.2,24-11-2022
+406,Yash Patel,Female,29,Jaipur,Accountant,641492.4,18-04-2022
+407,Ananya Ghosh,Female,42,Kolkata,Doctor,2241162.55,13-10-2023
+408,Pradeep Sharma,Male,34,Bangalore,Manager,1552130.8,14-06-2022
+409,Vivek Tiwari,Female,27,Surat,Business Owner,3212189.79,09-12-2023
+410,Deepak Chopra,Male,36,Hyderabad,Marketing Professional,632175.15,12-04-2022
+411,Ravi Rao,Male,41,Mumbai,Doctor,2077384.14,05-03-2024
+412,Pallavi Shukla,Female,34,Pune,Architect,1510028.3,02-01-2022
+413,Pradeep Mehta,Female,31,Nagpur,Manager,1500898.82,27-12-2023
+414,Priya Mehta,Male,40,Bangalore,Sales Executive,877949.23,09-08-2022
+415,Amit Ghosh,Male,26,Chandigarh,Government Employee,842717.31,20-10-2022
+416,Vijay Singh,Female,29,Kolkata,Government Employee,998274.91,14-04-2022
+417,Deepak Jain,Female,38,Mumbai,Retired,354354.23,19-04-2022
+418,Arjun Dubey,Female,52,Surat,Sales Executive,860354.64,28-11-2022
+419,Deepak Verma,Male,43,Mumbai,Sales Executive,627813.73,13-07-2022
+420,Nikhil Srivastava,Male,47,Chandigarh,Teacher,347084.32,13-03-2022
+421,Varsha Desai,Male,36,Jaipur,Freelancer,740061.59,23-09-2024
+422,Usha Pillai,Female,34,Pune,Doctor,2067739.28,03-05-2024
+423,Sanjay Ghosh,Female,23,Kolkata,Lawyer,1749550.77,08-11-2022
+424,Komal Joshi,Male,29,Delhi,Software Engineer,1215615.58,13-11-2023
+425,Vivek Mehta,Female,34,Chennai,Teacher,549735.81,09-10-2022
+426,Archana Jain,Female,32,Jaipur,Retired,581206.48,21-03-2023
+427,Vikram Verma,Male,37,Surat,Business Owner,2236225.5,25-05-2024
+428,Shubham Patil,Female,21,Patna,Teacher,485734.4,25-08-2022
+429,Rajan Pandey,Male,56,Hyderabad,Retired,404312.75,27-11-2022
+430,Kiran Chopra,Female,44,Mumbai,Architect,1543768.6,24-07-2022
+431,Meena Dubey,Female,41,Chennai,Software Engineer,2259771.32,15-05-2023
+432,Swati Chopra,Male,38,Surat,Farmer,162377.25,18-04-2023
+433,Vikram Yadav,Female,43,Delhi,Marketing Professional,819935.14,25-02-2022
+434,Archana Gupta,Female,26,Bangalore,Business Owner,1582014.27,03-11-2022
+435,Ankit Thakur,Male,39,Bhopal,Retired,546412.89,21-11-2023
+436,Sumit More,Male,29,Bhopal,Government Employee,633276.07,16-04-2023
+437,Preeti Malhotra,Male,55,Surat,Architect,1960600.84,21-08-2023
+438,Kavita Sharma,Female,37,Mumbai,Software Engineer,1196096.16,15-09-2023
+439,Manoj Pillai,Male,47,Kolkata,Freelancer,1054495.01,02-03-2023
+440,Nikhil Rao,Female,24,Bangalore,Manager,1339637.54,19-01-2022
+441,Rekha Mukherjee,Female,47,Bangalore,Software Engineer,2366166.49,09-02-2022
+442,Ravi Srivastava,Male,30,Delhi,Architect,733807.81,28-04-2024
+443,Priya Srivastava,Female,43,Indore,Manager,1561177.11,02-11-2022
+444,Akash Kumar,Female,44,Pune,Sales Executive,571654.71,24-06-2022
+445,Deepa Mukherjee,Male,41,Hyderabad,Freelancer,1201190.61,15-09-2023
+446,Dinesh Chatterjee,Male,40,Jaipur,Lawyer,1831547.36,22-03-2023
+447,Chetna Gupta,Male,46,Indore,Farmer,191969.74,06-02-2022
+448,Kunal Shukla,Male,50,Delhi,Business Owner,1001336.78,22-10-2023
+449,Sonal Chatterjee,Male,40,Kolkata,Accountant,639072.57,08-07-2022
+450,Ravi Joshi,Male,32,Kolkata,Doctor,2493721.1,12-11-2022
+451,Rohit Kulkarni,Male,25,Bangalore,Business Owner,1471785.35,09-05-2023
+452,Sachin Chatterjee,Female,46,Bangalore,Software Engineer,2495174.42,08-01-2022
+453,Meghna Singh,Male,36,Surat,Farmer,440274.66,22-07-2024
+454,Lakshmi Verma,Male,40,Surat,Farmer,403550.8,28-01-2023
+455,Deepa Rao,Male,44,Kolkata,Business Owner,2157350.31,12-02-2023
+456,Ritu Thakur,Male,33,Bangalore,Accountant,636084.13,03-09-2022
+457,Sapna Malhotra,Female,25,Mumbai,Teacher,422356.87,28-02-2023
+458,Sunita Saxena,Male,44,Patna,Manager,1716490.5,19-01-2024
+459,Gaurav Verma,Male,28,Kolkata,Sales Executive,847606.21,02-11-2022
+460,Yash Singh,Female,37,Patna,Software Engineer,2322800.13,07-09-2022
+461,Naveen Shah,Male,31,Kolkata,Lawyer,1829325.52,17-05-2023
+462,Nikhil Chopra,Male,34,Nagpur,Teacher,490160.3,28-03-2022
+463,Varun Kulkarni,Male,44,Bhopal,Sales Executive,861123.62,01-01-2022
+464,Sunita Patil,Male,37,Ahmedabad,Architect,639489.2,06-03-2022
+465,Lokesh Reddy,Male,46,Bangalore,Farmer,495802.17,NULL
+466,Nitin Verma,Male,30,Mumbai,Software Engineer,1195459.71,27-02-2024
+467,Mohit Mishra,Male,39,Pune,Sales Executive,850737.71,12-01-2022
+468,Sandeep Joshi,Female,43,Bhopal,Architect,1586574.88,22-10-2022
+469,Pradeep Tiwari,Male,47,Pune,Doctor,2246054.18,22-02-2022
+470,Komal Chaudhary,Female,34,Chennai,Business Owner,3822348.91,NULL
+471,Sunita Chopra,Female,30,Chennai,Marketing Professional,1468742.9,08-05-2022
+472,Vijay Mehta,Male,21,Mumbai,Manager,1098870.2,18-12-2024
+473,Jyoti Gupta,Male,21,Indore,Marketing Professional,1448698.16,21-08-2024
+474,Nitin Patil,Male,58,Patna,Freelancer,1457791.19,11-09-2022
+475,Priya Nair,Female,46,Bangalore,Business Owner,2057141.08,12-07-2023
+476,Pooja Chatterjee,Male,42,Ahmedabad,Farmer,398138.03,09-08-2022
+477,Aarav Singh,Male,27,Surat,Government Employee,954540.86,24-07-2023
+478,Lakshmi Dubey,Male,52,Nagpur,Business Owner,4492028.79,05-04-2022
+479,Nitin Nair,Male,41,Delhi,Doctor,3520659.54,15-09-2022
+480,Shubham Shah,Male,25,Chennai,Teacher,259035.1,19-08-2024
+481,Ankit Tiwari,Male,59,Patna,Manager,909175.84,21-08-2022
+482,Rajan Naik,Female,48,Chennai,Marketing Professional,530993.2,13-08-2022
+483,Isha Desai,Male,39,Lucknow,Software Engineer,972138.28,24-05-2023
+484,Vikas Srivastava,Male,44,Patna,Teacher,356896.73,03-09-2022
+485,Rupali Saxena,Male,42,Mumbai,Business Owner,839821.35,12-12-2022
+486,Vijay Patel,Male,38,Hyderabad,Government Employee,536665.75,NULL
+487,Shubham Patel,Female,21,Nagpur,Teacher,603194.46,05-09-2022
+488,Neha Pandey,Male,41,Delhi,Business Owner,2232490.31,25-01-2023
+489,Jyoti Singh,Male,36,Hyderabad,Teacher,447883.19,06-06-2024
+490,Preeti Agarwal,Female,56,Kolkata,Doctor,3070795.29,01-06-2022
+491,Varsha Saxena,Male,28,Kolkata,Lawyer,1058557.74,10-01-2022
+492,Ananya Gupta,Male,45,Chandigarh,Retired,319540.84,13-08-2024
+493,Deepa Reddy,Female,43,Chennai,Freelancer,942931.03,08-06-2022
+494,Arjun Gupta,Male,37,Surat,Government Employee,1046768.58,26-04-2023
+495,Shubham Mishra,Female,24,Bangalore,Government Employee,1197815.38,01-04-2023
+496,Ananya Thakur,Male,24,Jaipur,Doctor,2286677.63,08-01-2022
+497,Yamini Kulkarni,Male,50,Surat,Lawyer,2091208.67,06-11-2022
+498,Sandeep Patil,Male,25,Hyderabad,Doctor,2360438.72,19-01-2023
+499,Varsha Shukla,Female,44,Jaipur,Doctor,2775514.53,12-08-2022
+500,Harini Naik,Male,42,Chennai,Manager,1551223.97,11-12-2022
+501,Sonal Gupta,Male,26,Indore,Teacher,431338.28,03-02-2023
+502,Bhavna Bose,Female,27,Mumbai,Marketing Professional,737579.29,08-09-2022
+503,Tanya Shah,Female,35,Kolkata,Sales Executive,790431.56,11-01-2022
+504,Pallavi Mishra,Male,45,Surat,Business Owner,1922113.97,02-12-2022
+505,Ritu Chaudhary,Female,40,Bhopal,Architect,1503776.74,28-08-2023
+506,Naveen Kumar,Male,44,Chandigarh,Farmer,169672.04,25-03-2024
+507,Amit Reddy,Male,50,Ahmedabad,Manager,876344.77,27-06-2023
+508,Suresh Mukherjee,Male,21,Bhopal,Farmer,170169.63,23-05-2022
+509,Ananya Joshi,Female,30,Kolkata,Marketing Professional,699109.77,10-01-2022
+510,Deepa Reddy,Female,46,Patna,Sales Executive,593272.04,13-09-2022
+511,Shubham Patel,Male,27,Nagpur,Architect,1371867.21,26-12-2022
+512,Harini Pillai,Female,53,Kolkata,Software Engineer,1076942.59,02-03-2022
+513,Vivek Saxena,Female,31,Chennai,Accountant,565384.79,03-04-2022
+514,Nitin Kapoor,Male,28,Lucknow,Architect,1721210.73,11-08-2023
+515,Neha Shukla,Male,31,Ahmedabad,Marketing Professional,1467024.44,21-05-2022
+516,Archana More,Male,29,Hyderabad,Retired,320858.04,25-04-2022
+517,Rekha Thakur,Female,27,Lucknow,Software Engineer,1669573.32,26-02-2022
+518,Shilpa Kumar,Male,21,Jaipur,Teacher,557985.91,11-01-2024
+519,Sumit Iyer,Male,35,Kolkata,Accountant,660109.66,03-02-2022
+520,Rupali Srivastava,Female,52,Pune,Software Engineer,2169230.7,14-06-2023
+521,Swati Srivastava,Male,29,Delhi,Marketing Professional,525455.27,11-07-2024
+522,Harini Iyer,Male,38,Kolkata,Architect,1591296.54,24-03-2022
+523,Sunita Yadav,Male,42,Chennai,Accountant,827708.08,03-07-2022
+524,Mansi Reddy,Male,21,Patna,Farmer,380165.14,23-01-2022
+525,Gaurav Tiwari,Female,36,Kolkata,Business Owner,3860043.12,18-06-2023
+526,Lokesh Agarwal,Female,25,Indore,Sales Executive,433996.76,02-03-2024
+527,Bhavna Singh,Female,32,Bangalore,Sales Executive,456335.54,21-07-2022
+528,Geeta Joshi,Female,56,Nagpur,Retired,555770.42,10-08-2022
+529,Ravi Iyer,Male,56,Coimbatore,Lawyer,1675724.96,17-02-2022
+530,Gaurav Patel,Male,44,Chennai,Business Owner,1992087.21,05-05-2023
+531,Rajan Patil,Female,45,Patna,Sales Executive,680699.38,16-02-2024
+532,Ankit Mehta,Male,38,Surat,Freelancer,1192639.92,15-03-2023
+533,Varsha Iyer,Female,37,Mumbai,Manager,1257733.08,05-07-2022
+534,Sapna Iyer,Male,38,Mumbai,Sales Executive,754108.64,27-02-2022
+535,Lokesh Mehta,Male,41,Chandigarh,Accountant,986882.59,10-06-2023
+536,Sanjay Gupta,Male,58,Lucknow,Architect,1028561.13,03-04-2024
+537,Ravi Tiwari,Female,30,Patna,Retired,491132.76,25-04-2022
+538,Rajan Srivastava,Male,32,Kolkata,Sales Executive,750069.35,14-04-2023
+539,Geeta Nair,Male,38,Delhi,Marketing Professional,1484879.52,22-12-2023
+540,Pranav Desai,Female,40,Delhi,Manager,1839507.38,02-03-2022
+541,Kiran Agarwal,Male,39,Hyderabad,Accountant,486490.76,12-04-2023
+542,Harish Pillai,Female,35,Mumbai,Lawyer,1557119.56,06-03-2022
+543,Yamini Naik,Female,47,Surat,Teacher,439392.16,17-10-2022
+544,Usha More,Male,45,Hyderabad,Farmer,464517.67,NULL
+545,Shubham Jain,Female,40,Bhopal,Freelancer,338142.82,05-01-2023
+546,Naveen Gupta,Male,44,Ahmedabad,Marketing Professional,909756.23,25-05-2022
+547,Ankit Joshi,Female,37,Patna,Marketing Professional,1433124.34,24-03-2023
+548,Usha Kumar,Female,38,Hyderabad,Business Owner,4777562.47,23-11-2022
+549,Shubham Mukherjee,Male,21,Chennai,Teacher,539951.56,19-04-2023
+550,Vijay Pandey,Female,45,Indore,Farmer,163805.58,08-03-2024
+551,Rajesh Sharma,Female,51,Chennai,Manager,1660102.25,12-07-2022
+552,Pallavi More,Male,47,Bangalore,Sales Executive,514516.44,11-05-2022
+553,Nisha Bose,Female,42,Patna,Sales Executive,788978.57,15-04-2024
+554,Rajan Joshi,Male,47,Delhi,Freelancer,748261.77,21-03-2022
+555,Jyoti Chatterjee,Male,26,Nagpur,Farmer,205788.39,01-09-2023
+556,Amit Mehta,Male,44,Patna,Freelancer,666178.59,04-08-2023
+557,Priya Sharma,Female,34,Chandigarh,Doctor,3685263,21-01-2023
+558,Jyoti Chopra,Female,39,Indore,Freelancer,1166710.96,21-02-2023
+559,Kunal Saxena,Male,36,Nagpur,Lawyer,2260068.26,18-01-2023
+560,Mansi More,Male,33,Chennai,Business Owner,4291745.29,04-02-2024
+561,Deepak Chaudhary,Male,50,Indore,Lawyer,3106998.49,16-10-2022
+562,Nitin Thakur,Female,21,Nagpur,Teacher,272657.82,06-01-2022
+563,Deepa Patel,Female,21,Coimbatore,Farmer,232250,08-08-2023
+564,Lakshmi Verma,Male,42,Surat,Sales Executive,371224.11,16-02-2022
+565,Chetna More,Female,42,Chandigarh,Software Engineer,1747122.72,05-06-2023
+566,Nisha Tiwari,Male,38,Delhi,Lawyer,1437813.25,21-04-2022
+567,Yamini Naik,Male,25,Bhopal,Farmer,228021.34,26-01-2023
+568,Pradeep Chopra,Male,41,Bhopal,Marketing Professional,952532.46,04-04-2022
+569,Rekha Shah,Male,41,Chennai,Farmer,371781.41,27-12-2022
+570,Ritu Shah,Male,26,Ahmedabad,Retired,256179.67,09-01-2022
+571,Aditya Tiwari,Male,42,Surat,Government Employee,496596.65,11-02-2022
+572,Simran Joshi,Female,32,Coimbatore,Software Engineer,2375265.1,16-01-2022
+573,Lakshmi Sharma,Male,43,Delhi,Retired,463382.68,28-05-2023
+574,Apurva Saxena,Female,36,Chennai,Lawyer,3331801.53,04-07-2023
+575,Divya Naik,Male,37,Indore,Marketing Professional,1078554.39,05-08-2023
+576,Swati Naik,Female,32,Kolkata,Lawyer,3191615.47,NULL
+577,Ravi Mehta,Male,33,Chandigarh,Teacher,429041.5,20-04-2022
+578,Isha Mishra,Female,44,Ahmedabad,Teacher,629383.49,19-08-2022
+579,Arjun Reddy,Male,34,Indore,Government Employee,567770.16,04-11-2022
+580,Sunita Thakur,Male,23,Surat,Marketing Professional,615405.25,22-06-2023
+581,Shruti Sharma,Male,42,Mumbai,Accountant,998294.98,03-11-2022
+582,Nikhil Iyer,Male,31,Chennai,Manager,888924.73,08-02-2022
+583,Vijay Pillai,Female,40,Delhi,Teacher,557525.65,18-10-2023
+584,Manoj More,Female,40,Kolkata,Sales Executive,788415.73,20-07-2022
+585,Ajay Singh,Female,28,Nagpur,Marketing Professional,1147119.44,02-04-2023
+586,Priya Thakur,Male,45,Jaipur,Manager,1943712.56,08-09-2023
+587,Nitin Pandey,Female,41,Ahmedabad,Government Employee,896449.36,08-02-2022
+588,Aditya Das,Male,21,Bangalore,Freelancer,1142388.88,11-07-2023
+589,Rajesh Banerjee,Male,37,Jaipur,Business Owner,4834891.1,20-09-2022
+590,Pranav Sharma,Male,32,Pune,Business Owner,1308086.94,08-02-2023
+591,Vandana Ghosh,Male,36,Bhopal,Software Engineer,1061295.75,16-03-2022
+592,Priya Jain,Male,40,Chennai,Doctor,3395288.06,05-02-2023
+593,Varsha Srivastava,Male,27,Kolkata,Lawyer,1077258.82,08-06-2022
+594,Pooja Pandey,Male,37,Chandigarh,Government Employee,930667.58,09-03-2023
+595,Vivek Joshi,Female,50,Coimbatore,Retired,598652.43,01-06-2022
+596,Vandana More,Male,21,Delhi,Government Employee,1123597.17,20-01-2023
+597,Kiran Dubey,Male,24,Lucknow,Accountant,1108528.13,23-10-2022
+598,Rekha Yadav,Female,50,Coimbatore,Software Engineer,2349271.08,03-08-2022
+599,Usha Patel,Female,43,Chennai,Retired,217540.66,10-10-2024
+600,Aarav Kumar,Male,34,Ahmedabad,Freelancer,899367.28,NULL
+601,Komal Kumar,Female,41,Pune,Farmer,389891.81,20-04-2023
+602,Pooja Gupta,Male,32,Delhi,Software Engineer,1580682.9,08-10-2022
+603,Akash Kapoor,Male,25,Coimbatore,Business Owner,4094545.06,11-10-2022
+604,Priya Verma,Male,33,Hyderabad,Accountant,723558.42,05-03-2024
+605,Apurva Gupta,Female,37,Bangalore,Lawyer,915337.21,02-03-2024
+606,Manoj Das,Female,34,Lucknow,Sales Executive,856828.65,15-02-2022
+607,Ananya Verma,Male,39,Kolkata,Architect,721107.31,01-11-2023
+608,Preeti Das,Female,27,Pune,Business Owner,3885717.21,01-01-2023
+609,Rekha Sharma,Male,53,Pune,Teacher,554780.07,28-09-2024
+610,Harini Naik,Male,28,Bangalore,Doctor,1316964.79,28-09-2023
+611,Pankaj Agarwal,Female,37,Chandigarh,Teacher,344523.8,03-08-2023
+612,Nitin More,Female,21,Ahmedabad,Business Owner,1308199.17,12-04-2023
+613,Isha Mukherjee,Female,44,Bangalore,Doctor,1707802.36,19-01-2022
+614,Pranav Shah,Male,21,Patna,Teacher,552258.36,16-11-2022
+615,Ajay More,Male,34,Ahmedabad,Sales Executive,514283.02,25-03-2022
+616,Pooja More,Female,31,Pune,Sales Executive,591516.74,20-07-2023
+617,Rajan Sharma,Male,46,Kolkata,Architect,1393606.65,09-04-2023
+618,Komal Bose,Female,21,Pune,Marketing Professional,1239816.22,14-03-2024
+619,Sunita Ghosh,Male,46,Hyderabad,Accountant,986378.24,19-05-2024
+620,Rohit Bose,Female,30,Pune,Business Owner,3440427.06,13-12-2023
+621,Deepak Verma,Female,36,Mumbai,Lawyer,1410723.02,22-10-2023
+622,Sonal Kulkarni,Male,24,Delhi,Farmer,353661.67,26-10-2022
+623,Harish Pandey,Male,47,Lucknow,Lawyer,1577602.44,28-06-2022
+624,Usha Patel,Male,30,Chandigarh,Business Owner,2644685.03,17-01-2022
+625,Vandana Nair,Female,48,Pune,Software Engineer,1926553.43,05-10-2022
+626,Jyoti Patil,Female,23,Pune,Retired,263688.97,22-10-2022
+627,Tanya Chopra,Male,40,Bhopal,Marketing Professional,1232004.47,24-04-2022
+628,Dinesh Jain,Female,36,Bhopal,Government Employee,434246.75,28-09-2023
+629,Anjali Shah,Female,35,Chandigarh,Manager,1310576.5,02-10-2022
+630,Shubham Kulkarni,Male,38,Chennai,Accountant,1063717.72,12-10-2023
+631,Deepak Jain,Male,28,Kolkata,Manager,1549777.91,23-01-2023
+632,Kavita Chaudhary,Female,48,Mumbai,Lawyer,1955189.73,25-04-2024
+633,Usha Bose,Male,31,Chennai,Lawyer,3193289.03,16-01-2022
+634,Vikram Chopra,Male,40,Indore,Business Owner,2193780.95,08-11-2023
+635,Simran Nair,Female,32,Surat,Marketing Professional,613338.7,14-04-2023
+636,Arjun Patil,Male,27,Pune,Software Engineer,1214239.52,07-02-2022
+637,Rajan Kapoor,Female,42,Chandigarh,Accountant,810114.25,25-03-2023
+638,Jyoti Verma,Female,34,Lucknow,Manager,1479164.78,03-02-2022
+639,Shilpa Nair,Male,29,Surat,Doctor,1806461.57,07-06-2022
+640,Apurva Reddy,Female,30,Chandigarh,Architect,799796.99,11-04-2024
+641,Rupali Kulkarni,Male,29,Nagpur,Teacher,325474.77,18-01-2022
+642,Rahul Iyer,Male,21,Chandigarh,Manager,871877.16,24-05-2022
+643,Bhavna More,Male,40,Chandigarh,Accountant,735836.01,06-08-2022
+644,Shilpa Mehta,Female,41,Mumbai,Freelancer,352771.33,NULL
+645,Rajesh Jain,Male,28,Patna,Freelancer,1082127.17,26-05-2022
+646,Kavita Kulkarni,Female,42,Hyderabad,Freelancer,1199273.17,12-02-2022
+647,Rohit Das,Male,30,Surat,Manager,874048.04,20-11-2024
+648,Aarav Patil,Male,39,Chandigarh,Teacher,335059.46,02-09-2022
+649,Ritu Pandey,Male,42,Surat,Software Engineer,1437550.8,01-01-2022
+650,Shubham Desai,Male,55,Bhopal,Accountant,868296.15,25-04-2022
+651,Ritu Thakur,Female,30,Patna,Architect,985784.76,04-08-2022
+652,Mansi Saxena,Male,22,Lucknow,Business Owner,2228937.06,19-09-2024
+653,Vikram Chopra,Male,33,Chennai,Architect,1082098.83,25-11-2022
+654,Sonal Tiwari,Female,22,Delhi,Doctor,1800482.8,14-01-2022
+655,Sandeep Saxena,Female,26,Surat,Business Owner,2312056.19,21-03-2023
+656,Nitin Pandey,Male,24,Delhi,Doctor,1379425.28,04-08-2022
+657,Archana Das,Female,51,Delhi,Marketing Professional,884326.01,17-05-2022
+658,Lakshmi Chatterjee,Male,36,Chandigarh,Freelancer,1266297.35,01-07-2022
+659,Akash More,Male,40,Delhi,Teacher,337635.92,10-10-2023
+660,Aarav Nair,Male,26,Jaipur,Sales Executive,443553.98,11-09-2023
+661,Sachin Jain,Male,33,Bangalore,Freelancer,719263.8,07-04-2022
+662,Mansi Kulkarni,Male,29,Jaipur,Doctor,2738859.43,26-03-2022
+663,Harini Sharma,Male,45,Surat,Government Employee,885090.73,05-05-2022
+664,Deepak Yadav,Male,59,Hyderabad,Lawyer,1176808.89,09-04-2022
+665,Harini Kapoor,Female,37,Nagpur,Freelancer,867272.69,20-01-2023
+666,Kunal Tiwari,Female,50,Coimbatore,Architect,1277081.85,18-06-2022
+667,Kiran Kapoor,Male,35,Kolkata,Accountant,768576.35,08-10-2022
+668,Priya Agarwal,Female,36,Chandigarh,Accountant,960940.88,24-01-2024
+669,Ankit Srivastava,Female,41,Indore,Lawyer,925280.3,07-06-2024
+670,Mohit Saxena,Male,31,Ahmedabad,Doctor,2752744.21,01-04-2022
+671,Aditya Chaudhary,Female,52,Kolkata,Architect,976706.1,05-03-2022
+672,Shubham Pillai,Male,33,Kolkata,Marketing Professional,742056.52,12-07-2023
+673,Rohit Chaudhary,Male,40,Delhi,Farmer,366508.91,17-04-2024
+674,Yamini Mishra,Male,41,Jaipur,Farmer,318802.23,12-05-2022
+675,Ananya Chopra,Female,39,Pune,Retired,273148.75,25-02-2024
+676,Shruti Saxena,Female,26,Delhi,Software Engineer,1693750.25,02-05-2022
+677,Nisha Joshi,Female,49,Coimbatore,Lawyer,1802951.3,28-01-2023
+678,Vivek Pillai,Male,24,Hyderabad,Sales Executive,713526.33,24-03-2022
+679,Shubham Malhotra,Male,42,Indore,Sales Executive,516961.4,26-09-2022
+680,Shruti Pillai,Male,33,Bhopal,Sales Executive,410348.2,18-03-2022
+681,Arjun Patil,Female,36,Hyderabad,Sales Executive,812595.65,10-01-2022
+682,Varun Thakur,Male,44,Nagpur,Marketing Professional,769949.11,26-05-2022
+683,Vivek Reddy,Male,43,Pune,Government Employee,516674.99,NULL
+684,Varsha Mishra,Female,36,Lucknow,Farmer,370728.19,08-10-2022
+685,Naveen Singh,Male,28,Jaipur,Teacher,502962.3,13-07-2022
+686,Pradeep Chatterjee,Female,33,Jaipur,Retired,535588.68,10-01-2022
+687,Kavita Verma,Male,21,Bhopal,Sales Executive,516183.95,05-11-2022
+688,Chetna Iyer,Male,31,Chennai,Farmer,387855.05,24-06-2022
+689,Deepa Patel,Male,32,Lucknow,Freelancer,569991.35,16-01-2023
+690,Sandeep Nair,Female,48,Indore,Retired,452684.88,22-11-2024
+691,Deepak Patel,Male,21,Kolkata,Manager,1520655.43,26-11-2022
+692,Vijay Bose,Male,29,Nagpur,Sales Executive,490126.95,17-01-2022
+693,Simran Jain,Female,42,Surat,Teacher,649461.31,18-10-2023
+694,Rahul Mehta,Female,21,Jaipur,Business Owner,1409099.28,18-02-2023
+695,Manoj Shah,Male,43,Patna,Marketing Professional,1200696.93,28-12-2022
+696,Ananya Jain,Female,40,Bangalore,Lawyer,1039946.14,01-11-2022
+697,Divya Ghosh,Male,46,Lucknow,Doctor,1934866.34,05-02-2022
+698,Arjun Jain,Female,50,Mumbai,Retired,450592.27,16-08-2022
+699,Bhavna Mukherjee,Female,43,Jaipur,Software Engineer,1928033.53,19-02-2022
+700,Preeti Reddy,Male,31,Coimbatore,Lawyer,2056596.82,15-02-2024
+701,Varsha Ghosh,Female,45,Patna,Accountant,999129.28,NULL
+702,Ankit Chatterjee,Male,30,Surat,Lawyer,1490533.96,11-04-2022
+703,Ravi Shukla,Male,50,Mumbai,Teacher,320072.89,24-07-2023
+704,Shilpa Ghosh,Male,38,Surat,Marketing Professional,1422088.4,06-04-2023
+705,Rekha Iyer,Male,38,Surat,Freelancer,580799.4,14-04-2022
+706,Divya Dubey,Male,39,Bangalore,Manager,1024864.95,06-06-2022
+707,Vandana Bose,Male,21,Jaipur,Manager,1512919.92,03-11-2024
+708,Sanjay Reddy,Male,36,Hyderabad,Manager,944400.81,02-04-2022
+709,Tanya Iyer,Male,23,Pune,Accountant,764274.41,NULL
+710,Rahul Reddy,Female,42,Lucknow,Software Engineer,2448517.57,20-10-2022
+711,Ankit Rao,Male,36,Ahmedabad,Teacher,306267.64,02-08-2023
+712,Lakshmi Pandey,Male,38,Delhi,Sales Executive,552145.82,18-07-2024
+713,Tarun Srivastava,Male,38,Patna,Sales Executive,348133.86,13-09-2022
+714,Pranav Dubey,Female,32,Hyderabad,Business Owner,1445646.09,13-01-2023
+715,Kunal Gupta,Male,21,Hyderabad,Freelancer,1129087.28,12-09-2022
+716,Dinesh Saxena,Male,55,Lucknow,Lawyer,2631620.5,22-10-2022
+717,Isha Jain,Male,35,Patna,Sales Executive,395166.86,24-10-2022
+718,Meena Singh,Female,21,Ahmedabad,Accountant,639050.47,11-05-2023
+719,Yash Kulkarni,Male,36,Kolkata,Doctor,1860704.35,15-08-2024
+720,Apurva Saxena,Female,38,Pune,Software Engineer,2447019.38,06-07-2023
+721,Yamini Tiwari,Female,38,Delhi,Sales Executive,762478.2,13-06-2022
+722,Harish Desai,Female,49,Pune,Software Engineer,1404380.05,17-11-2022
+723,Kavita Chatterjee,Female,55,Mumbai,Retired,293069.85,05-09-2023
+724,Ravi Kapoor,Female,35,Patna,Marketing Professional,877768.94,11-08-2022
+725,Aditya Patil,Male,33,Bhopal,Marketing Professional,937500,01-01-2022
+726,Yash Naik,Female,52,Chennai,Sales Executive,739441.45,19-06-2022
+727,Preeti Pandey,Male,21,Chandigarh,Doctor,2687184.8,06-01-2023
+728,Rahul More,Female,43,Kolkata,Manager,1653755.06,12-01-2024
+729,Divya Iyer,Male,31,Patna,Sales Executive,732602.14,04-06-2024
+730,Vandana Das,Male,27,Indore,Freelancer,916908.15,22-12-2022
+731,Arjun Reddy,Female,36,Ahmedabad,Doctor,1469517.63,22-05-2022
+732,Pradeep Gupta,Male,35,Nagpur,Doctor,2559036.8,18-05-2023
+733,Vikas Pandey,Male,28,Bangalore,Accountant,791927.71,02-09-2022
+734,Dinesh Chaudhary,Female,28,Bangalore,Software Engineer,2381358.76,04-08-2022
+735,Swati Pandey,Female,49,Delhi,Retired,520407.98,19-09-2023
+736,Sapna Gupta,Female,42,Lucknow,Farmer,365926.66,16-05-2022
+737,Akash Desai,Male,42,Ahmedabad,Doctor,3844889.75,02-03-2022
+738,Jyoti Reddy,Male,36,Surat,Lawyer,2607878.94,04-01-2022
+739,Nisha Banerjee,Female,31,Chennai,Marketing Professional,605514.18,19-09-2023
+740,Sonal Yadav,Male,30,Chennai,Freelancer,434515.5,05-09-2024
+741,Priya Thakur,Female,29,Indore,Lawyer,3495927.29,25-01-2022
+742,Komal Mishra,Male,41,Ahmedabad,Farmer,280101.83,15-11-2022
+743,Deepa Chatterjee,Female,44,Mumbai,Manager,1695420.69,26-04-2022
+744,Ajay Naik,Male,34,Pune,Marketing Professional,534662.9,20-01-2024
+745,Priya Verma,Female,44,Jaipur,Teacher,252955.97,27-05-2023
+746,Harini Patil,Male,37,Delhi,Lawyer,2229305.87,20-03-2023
+747,Apurva Malhotra,Male,44,Lucknow,Retired,342262.3,14-02-2022
+748,Jyoti Pillai,Female,45,Indore,Doctor,2797364.05,16-12-2023
+749,Harini Shah,Male,21,Lucknow,Freelancer,827293.12,04-10-2022
+750,Harini Dubey,Male,39,Delhi,Software Engineer,2042341.92,NULL
+751,Vikram Chopra,Female,45,Mumbai,Freelancer,634706.54,08-07-2023
+752,Neha Singh,Male,30,Delhi,Accountant,1021934.89,03-10-2022
+753,Nitin Rao,Male,44,Nagpur,Sales Executive,623957.84,23-10-2023
+754,Harini Yadav,Male,47,Surat,Retired,501136.08,19-04-2022
+755,Bhavna Patil,Female,43,Nagpur,Teacher,603865.73,19-02-2022
+756,Geeta Banerjee,Female,45,Pune,Teacher,288285.54,09-01-2023
+757,Harini Iyer,Male,27,Chandigarh,Freelancer,375331.99,11-10-2022
+758,Tarun Banerjee,Male,33,Bangalore,Government Employee,593852.07,10-06-2023
+759,Anjali Shukla,Male,29,Mumbai,Doctor,3080893.15,07-02-2024
+760,Kavita More,Female,42,Coimbatore,Freelancer,596264.5,27-05-2023
+761,Sachin Pandey,Male,55,Bangalore,Architect,804145.87,05-11-2023
+762,Kunal More,Female,43,Lucknow,Doctor,3270828.56,27-02-2023
+763,Bhavna Verma,Male,40,Ahmedabad,Software Engineer,1383561.33,06-10-2022
+764,Shubham Thakur,Male,29,Pune,Government Employee,837139.37,27-08-2024
+765,Sapna Gupta,Male,51,Delhi,Marketing Professional,1198755.23,16-01-2023
+766,Yamini Bose,Male,39,Mumbai,Teacher,340313.23,22-11-2023
+767,Meena Shah,Male,35,Nagpur,Doctor,2288206.41,17-05-2022
+768,Usha Shah,Female,57,Patna,Government Employee,1183834.28,11-01-2022
+769,Nisha Thakur,Female,43,Mumbai,Farmer,358987.24,22-12-2022
+770,Sapna Ghosh,Male,41,Nagpur,Software Engineer,1220566.64,NULL
+771,Sumit Malhotra,Female,32,Chandigarh,Marketing Professional,657005.25,08-06-2023
+772,Pranav Dubey,Female,45,Mumbai,Teacher,615351.79,12-01-2022
+773,Ananya Mehta,Male,39,Nagpur,Lawyer,3367702.69,09-10-2022
+774,Vandana Chopra,Male,47,Pune,Lawyer,3397574.8,26-06-2023
+775,Preeti Mehta,Male,45,Pune,Manager,1961698.33,17-10-2022
+776,Sachin Mehta,Male,33,Chandigarh,Architect,1357895.36,25-04-2023
+777,Jyoti Nair,Male,52,Hyderabad,Business Owner,2492282.91,14-01-2024
+778,Sandeep Verma,Female,28,Surat,Business Owner,1997429.39,01-11-2022
+779,Yash Rao,Female,37,Hyderabad,Manager,1094352.54,03-09-2022
+780,Vandana More,Male,21,Kolkata,Business Owner,1412884.58,25-02-2023
+781,Shilpa Mehta,Male,34,Patna,Architect,925055.55,22-06-2023
+782,Gaurav Dubey,Male,29,Pune,Marketing Professional,1149568.55,22-10-2022
+783,Vivek Bose,Female,54,Kolkata,Business Owner,1450343.25,19-10-2023
+784,Sachin Pillai,Male,41,Coimbatore,Marketing Professional,1171339.09,03-10-2024
+785,Kunal Banerjee,Male,30,Delhi,Farmer,365970.78,27-09-2023
+786,Neha Mishra,Male,21,Chandigarh,Architect,1629464.49,05-06-2022
+787,Deepa Mukherjee,Female,40,Delhi,Accountant,1100626.38,27-07-2023
+788,Ananya Gupta,Male,26,Chandigarh,Government Employee,814962.12,25-06-2022
+789,Ananya Ghosh,Female,45,Lucknow,Freelancer,1019843.12,18-03-2023
+790,Vijay More,Female,40,Chandigarh,Retired,266594.64,18-10-2022
+791,Geeta Joshi,Male,35,Pune,Business Owner,2639747.39,21-06-2023
+792,Deepa Verma,Male,34,Ahmedabad,Manager,1237627.1,24-01-2023
+793,Naveen Joshi,Male,31,Coimbatore,Retired,236071.86,14-10-2023
+794,Sapna Dubey,Female,50,Chandigarh,Accountant,690354.71,04-05-2022
+795,Rajan Tiwari,Male,30,Pune,Architect,1929655.44,12-03-2023
+796,Mohit Singh,Male,44,Lucknow,Business Owner,4422801.56,04-12-2023
+797,Vikram Mehta,Female,24,Mumbai,Marketing Professional,1268630.42,10-05-2023
+798,Vivek Mukherjee,Male,42,Patna,Architect,1671554.13,13-04-2024
+799,Pankaj Kulkarni,Female,28,Coimbatore,Lawyer,2999381.87,10-11-2022
+800,Rupali Naik,Male,30,Jaipur,Manager,1274437.97,16-03-2023
+801,Gaurav Rao,Male,40,Bhopal,Architect,1480089.6,26-01-2023
+802,Suresh Patil,Female,31,Lucknow,Software Engineer,1047136.51,08-12-2022
+803,Mohit Nair,Female,47,Chennai,Sales Executive,852230.82,03-05-2022
+804,Meena Gupta,Male,41,Lucknow,Retired,499733.92,19-05-2023
+805,Shruti Thakur,Male,35,Patna,Sales Executive,521141.66,02-03-2022
+806,Yash Tiwari,Male,40,Chandigarh,Business Owner,1136902.21,21-01-2022
+807,Sapna Patel,Male,34,Lucknow,Government Employee,956663.6,16-06-2023
+808,Priya Kapoor,Male,34,Bhopal,Manager,1491497.99,05-11-2022
+809,Lakshmi Chaudhary,Female,21,Kolkata,Business Owner,3302875.92,21-03-2022
+810,Aditya Sharma,Male,38,Coimbatore,Marketing Professional,790488.06,20-05-2022
+811,Vandana Agarwal,Male,37,Indore,Accountant,1037386.04,22-04-2023
+812,Pankaj Sharma,Female,31,Lucknow,Sales Executive,636249.3,17-08-2024
+813,Anjali Sharma,Male,33,Indore,Teacher,605587.98,20-05-2022
+814,Jyoti More,Female,49,Chennai,Sales Executive,537629.6,21-03-2023
+815,Bhavna Gupta,Female,30,Patna,Government Employee,664411.87,24-05-2022
+816,Varsha Tiwari,Male,50,Surat,Business Owner,3359682.15,27-08-2023
+817,Priya Thakur,Male,25,Ahmedabad,Marketing Professional,556022.29,07-03-2022
+818,Sunita Kumar,Female,36,Jaipur,Architect,1559690.62,01-09-2023
+819,Rajan Patil,Male,51,Chennai,Farmer,160910.61,04-02-2023
+820,Lokesh Mishra,Female,36,Jaipur,Architect,763582.49,09-06-2022
+821,Sumit Pillai,Male,44,Chennai,Manager,812837.12,14-06-2023
+822,Suresh Iyer,Female,31,Coimbatore,Doctor,2247803.93,11-08-2023
+823,Aditya Tiwari,Female,26,Chandigarh,Lawyer,964830.41,NULL
+824,Sandeep Shah,Female,39,Chandigarh,Teacher,598989.94,11-11-2022
+825,Divya Jain,Male,38,Lucknow,Accountant,1194176.28,25-05-2023
+826,Rupali Patel,Male,40,Delhi,Software Engineer,1967988.96,14-10-2022
+827,Harini Ghosh,Female,33,Ahmedabad,Doctor,2657617.59,04-02-2022
+828,Ajay Bose,Male,30,Coimbatore,Sales Executive,420333.31,13-10-2023
+829,Vivek More,Male,42,Hyderabad,Accountant,494120.67,22-07-2022
+830,Isha Mishra,Male,44,Lucknow,Government Employee,834022.97,22-01-2022
+831,Sneha Desai,Male,50,Pune,Architect,942755.1,08-10-2023
+832,Vikas Shah,Male,43,Bangalore,Software Engineer,1600250.48,25-01-2022
+833,Deepa More,Male,32,Indore,Manager,1209491.79,21-04-2024
+834,Varsha Patel,Female,21,Coimbatore,Farmer,219351.5,08-07-2022
+835,Meghna Shah,Male,46,Coimbatore,Architect,784513.39,10-05-2022
+836,Nitin Rao,Female,21,Jaipur,Retired,292677.69,13-04-2022
+837,Anjali Mukherjee,Male,33,Bangalore,Sales Executive,535246.15,06-01-2024
+838,Shilpa Mukherjee,Female,23,Lucknow,Retired,245154.82,21-08-2022
+839,Sonal Shah,Male,27,Bangalore,Freelancer,653200.07,09-05-2022
+840,Meghna Srivastava,Male,32,Kolkata,Freelancer,592753.56,04-06-2023
+841,Sanjay Tiwari,Male,44,Surat,Architect,941167.49,03-08-2022
+842,Jyoti Tiwari,Male,47,Kolkata,Freelancer,1474266.79,17-11-2022
+843,Harini Chaudhary,Male,58,Coimbatore,Business Owner,3515493.93,01-04-2022
+844,Pallavi Reddy,Male,48,Nagpur,Sales Executive,633052.62,21-08-2023
+845,Neha Mishra,Male,32,Delhi,Doctor,2875125.71,22-05-2024
+846,Ravi Kulkarni,Female,25,Mumbai,Doctor,1809312.97,22-09-2022
+847,Divya More,Male,45,Ahmedabad,Freelancer,390742.96,05-07-2024
+848,Priya Ghosh,Male,47,Lucknow,Government Employee,945213.43,18-05-2022
+849,Apurva Sharma,Male,64,Chandigarh,Manager,1633128.59,11-10-2022
+850,Vijay Singh,Male,22,Delhi,Manager,1801927.77,01-11-2022
+851,Ajay Verma,Male,42,Nagpur,Software Engineer,1995702.01,25-02-2023
+852,Neha Srivastava,Male,29,Ahmedabad,Accountant,654501.85,16-05-2022
+853,Meena Agarwal,Male,46,Pune,Accountant,538728.09,24-08-2022
+854,Rahul Rao,Female,47,Patna,Business Owner,651052.11,NULL
+855,Swati Mukherjee,Female,42,Surat,Accountant,749388.09,09-03-2022
+856,Usha Banerjee,Male,37,Coimbatore,Architect,851716.33,08-03-2022
+857,Harini Chaudhary,Female,43,Kolkata,Manager,1161899.4,23-02-2022
+858,Ritu Desai,Male,50,Delhi,Marketing Professional,1001728.8,28-03-2022
+859,Shilpa Patel,Male,36,Chandigarh,Software Engineer,1765854.28,06-05-2023
+860,Yash Mukherjee,Male,33,Chandigarh,Farmer,494283.93,18-11-2022
+861,Deepak Desai,Female,21,Lucknow,Architect,723824.89,08-02-2022
+862,Sneha Desai,Female,40,Patna,Architect,673883.98,21-07-2022
+863,Swati Shukla,Female,22,Lucknow,Retired,405065.24,23-12-2022
+864,Rupali Ghosh,Female,41,Jaipur,Teacher,325378.67,10-11-2022
+865,Vijay More,Male,26,Patna,Software Engineer,1869810.09,13-11-2022
+866,Deepak Bose,Male,31,Jaipur,Doctor,1555099.74,NULL
+867,Mohit Kulkarni,Female,42,Coimbatore,Teacher,636036.27,24-05-2023
+868,Shubham Malhotra,Male,38,Chandigarh,Sales Executive,784704.41,13-11-2022
+869,Rupali Rao,Female,64,Surat,Farmer,161581.68,28-01-2023
+870,Pallavi Nair,Male,35,Bhopal,Freelancer,698117.09,24-05-2022
+871,Rajan Mukherjee,Male,38,Lucknow,Software Engineer,1891843.87,08-07-2022
+872,Varsha Chopra,Male,33,Nagpur,Retired,498460.22,25-03-2022
+873,Ajay Chatterjee,Male,27,Indore,Retired,305050.06,12-02-2022
+874,Rajesh Shah,Female,35,Bhopal,Lawyer,2675478.41,27-03-2022
+875,Pooja Bose,Male,55,Hyderabad,Farmer,301125.06,18-03-2023
+876,Ananya Mukherjee,Female,28,Kolkata,Teacher,544454.48,04-10-2022
+877,Gaurav Mishra,Male,39,Mumbai,Marketing Professional,1171889.85,25-03-2024
+878,Ritu Shah,Male,25,Coimbatore,Farmer,173783.18,07-07-2022
+879,Amit More,Male,36,Ahmedabad,Sales Executive,431649.8,28-05-2023
+880,Vikram Patel,Female,44,Pune,Architect,1493316.04,17-11-2022
+881,Gaurav Joshi,Female,48,Jaipur,Manager,1553313.02,06-01-2023
+882,Deepak Mukherjee,Female,30,Jaipur,Teacher,460130.01,24-01-2022
+883,Anjali Kapoor,Male,52,Bangalore,Freelancer,755078.42,26-05-2023
+884,Neha Dubey,Male,28,Delhi,Teacher,599697.68,27-03-2023
+885,Tanya Iyer,Male,37,Chennai,Teacher,680022.56,23-11-2022
+886,Sandeep Desai,Female,48,Ahmedabad,Accountant,793645.84,23-07-2023
+887,Manoj Gupta,Male,51,Jaipur,Architect,1500673.43,05-08-2023
+888,Lakshmi Rao,Female,29,Mumbai,Freelancer,779646.67,18-08-2024
+889,Ananya Patil,Male,36,Patna,Software Engineer,1929829.92,22-10-2024
+890,Sanjay Desai,Male,53,Nagpur,Retired,374423.07,05-01-2022
+891,Sunita Tiwari,Female,25,Nagpur,Marketing Professional,1317976.66,08-04-2022
+892,Ankit Pandey,Male,39,Indore,Software Engineer,1874863.3,10-07-2023
+893,Sachin Reddy,Male,38,Nagpur,Doctor,3555308.44,20-05-2022
+894,Divya Shah,Female,29,Bhopal,Accountant,552802.53,03-05-2022
+895,Ravi Gupta,Male,27,Kolkata,Retired,233944.99,11-02-2023
+896,Preeti Ghosh,Male,25,Coimbatore,Retired,355507.01,10-10-2024
+897,Rajesh Srivastava,Male,54,Chandigarh,Software Engineer,862972.56,19-05-2023
+898,Varsha Rao,Female,44,Kolkata,Retired,576035.92,20-06-2023
+899,Bhavna More,Male,47,Pune,Doctor,1303257.47,11-05-2022
+900,Vikas Ghosh,Female,49,Hyderabad,Software Engineer,1092823.32,24-05-2022
+901,Manoj Joshi,Male,39,Kolkata,Retired,444490.36,12-03-2023
+902,Shruti Tiwari,Female,34,Nagpur,Doctor,3452469.89,24-10-2022
+903,Anjali Pillai,Female,32,Chennai,Sales Executive,372481.46,18-04-2023
+904,Yash Rao,Female,26,Chennai,Sales Executive,337933.13,12-01-2022
+905,Apurva Gupta,Male,41,Nagpur,Marketing Professional,869927.34,05-07-2022
+906,Tanya Patel,Male,44,Chennai,Freelancer,405079.76,06-05-2024
+907,Bhavna Mehta,Male,31,Jaipur,Doctor,3178875.5,08-04-2023
+908,Varun Reddy,Male,33,Delhi,Lawyer,2071089.74,12-01-2023
+909,Sumit Shukla,Male,21,Kolkata,Architect,852000.65,02-10-2023
+910,Sapna Shah,Male,38,Chandigarh,Government Employee,494006.26,18-05-2023
+911,Vikas Iyer,Male,33,Pune,Government Employee,771372.81,19-08-2022
+912,Bhavna Chaudhary,Male,33,Delhi,Accountant,1075025.36,01-10-2022
+913,Pooja More,Female,35,Coimbatore,Software Engineer,1896263.42,16-01-2023
+914,Vikas Desai,Male,48,Mumbai,Software Engineer,977515.87,11-07-2023
+915,Pallavi Kulkarni,Male,44,Surat,Retired,405961.49,22-05-2022
+916,Anjali Chopra,Female,41,Indore,Government Employee,997669.4,21-01-2023
+917,Neha Chopra,Male,36,Patna,Government Employee,478451.31,11-04-2023
+918,Sandeep Pillai,Female,21,Coimbatore,Software Engineer,2313831.03,25-04-2022
+919,Sunita Bose,Male,48,Pune,Business Owner,2304253.34,22-11-2023
+920,Nikhil Bose,Male,50,Coimbatore,Software Engineer,1976757.9,26-02-2023
+921,Vijay Naik,Male,38,Chennai,Retired,367289.53,24-09-2023
+922,Akash Patel,Male,30,Chandigarh,Architect,1958190.18,26-02-2022
+923,Meghna Bose,Male,40,Surat,Retired,544879.62,19-06-2024
+924,Kunal Mishra,Male,49,Kolkata,Marketing Professional,1372598.47,05-05-2024
+925,Swati Gupta,Male,56,Patna,Architect,1924753.3,02-02-2022
+926,Suresh Banerjee,Male,26,Patna,Marketing Professional,1268606.39,10-08-2023
+927,Varun Patel,Male,42,Mumbai,Freelancer,1237422.77,06-05-2022
+928,Pankaj Mehta,Male,28,Kolkata,Marketing Professional,1231786.28,08-11-2023
+929,Naveen Mukherjee,Female,52,Mumbai,Accountant,1199161.33,04-01-2022
+930,Ravi Srivastava,Male,39,Bhopal,Retired,385504.26,24-02-2023
+931,Deepak Dubey,Female,24,Indore,Accountant,771436.63,19-04-2022
+932,Shruti Bose,Female,23,Ahmedabad,Lawyer,985056.86,16-12-2023
+933,Nikhil Yadav,Female,31,Bhopal,Freelancer,1090064.74,NULL
+934,Meena Mukherjee,Male,31,Bhopal,Software Engineer,988643.12,22-12-2022
+935,Dinesh Mehta,Female,34,Kolkata,Sales Executive,405160.44,27-03-2022
+936,Shilpa Kulkarni,Female,36,Ahmedabad,Lawyer,1195249.96,20-05-2022
+937,Tarun Yadav,Female,39,Jaipur,Freelancer,1168521.73,07-08-2022
+938,Kavita Chatterjee,Male,47,Chandigarh,Software Engineer,907727.61,27-11-2023
+939,Varsha Das,Male,34,Bhopal,Farmer,192948.3,11-07-2023
+940,Sanjay Iyer,Female,23,Coimbatore,Freelancer,1075298.42,25-10-2022
+941,Deepak Shah,Male,44,Hyderabad,Doctor,1424477.13,03-11-2024
+942,Harish Pillai,Male,33,Mumbai,Marketing Professional,647954.04,08-04-2023
+943,Bhavna Shukla,Male,28,Mumbai,Teacher,437441.5,28-01-2022
+944,Rahul Chopra,Female,21,Chandigarh,Teacher,335077.3,01-12-2022
+945,Anjali Chaudhary,Male,25,Chandigarh,Accountant,668701.9,NULL
+946,Nisha Ghosh,Male,31,Lucknow,Farmer,341964.05,27-08-2022
+947,Ajay Singh,Male,39,Lucknow,Business Owner,4072777.91,03-05-2022
+948,Yamini Nair,Female,47,Lucknow,Retired,582485.54,08-12-2022
+949,Harish Nair,Male,46,Delhi,Business Owner,4882106.79,19-11-2022
+950,Pallavi Kapoor,Male,24,Ahmedabad,Sales Executive,644715.1,05-02-2023
+951,Sandeep Pandey,Male,24,Chennai,Lawyer,2738549.39,21-08-2024
+952,Amit Srivastava,Female,21,Pune,Lawyer,1684055.4,19-06-2023
+953,Preeti Yadav,Male,52,Lucknow,Retired,571124.52,23-06-2024
+954,Harini Rao,Female,60,Coimbatore,Retired,558390.98,10-09-2023
+955,Ravi Thakur,Male,35,Mumbai,Sales Executive,713488.19,NULL
+956,Nitin Chatterjee,Male,21,Indore,Manager,1502778.59,28-01-2022
+957,Yash Iyer,Male,42,Coimbatore,Software Engineer,1833857.06,01-06-2022
+958,Ankit Yadav,Male,49,Patna,Accountant,937246.22,06-10-2022
+959,Meena Srivastava,Male,34,Surat,Sales Executive,661903.12,NULL
+960,Vivek Das,Male,37,Lucknow,Sales Executive,531667.57,15-08-2022
+961,Pallavi Agarwal,Female,51,Lucknow,Retired,549720.69,25-06-2022
+962,Shruti Agarwal,Male,46,Bangalore,Business Owner,4144960.25,13-04-2022
+963,Pooja Kumar,Female,21,Nagpur,Business Owner,1514248.68,03-01-2023
+964,Tarun Agarwal,Male,41,Coimbatore,Doctor,1218532.83,20-06-2022
+965,Neha Das,Male,43,Delhi,Marketing Professional,1067916.32,15-10-2022
+966,Apurva Ghosh,Male,34,Coimbatore,Farmer,439186.91,28-01-2024
+967,Bhavna Joshi,Female,45,Lucknow,Government Employee,421472.01,01-04-2023
+968,Kunal Verma,Male,38,Jaipur,Manager,933184,09-06-2023
+969,Apurva Saxena,Male,53,Jaipur,Retired,597733.18,24-02-2022
+970,Vikram Pandey,Male,44,Mumbai,Accountant,948730.27,16-04-2022
+971,Meghna Mehta,Male,33,Delhi,Farmer,240838.01,04-06-2023
+972,Sunita Singh,Male,35,Chandigarh,Teacher,412523.55,27-07-2024
+973,Gaurav Shah,Male,21,Chennai,Accountant,1149053.62,10-06-2023
+974,Priya Ghosh,Male,36,Bhopal,Lawyer,1738777.84,14-11-2022
+975,Ravi Jain,Male,34,Patna,Doctor,2696376.91,24-11-2022
+976,Naveen Shah,Male,42,Chandigarh,Manager,1142407.02,21-03-2022
+977,Sapna Desai,Female,41,Hyderabad,Government Employee,1065258.84,17-01-2022
+978,Deepak Joshi,Female,25,Mumbai,Manager,1298638.77,23-05-2023
+979,Pallavi Naik,Male,36,Indore,Retired,339283.96,16-03-2022
+980,Amit Joshi,Male,32,Pune,Business Owner,3723537.48,12-02-2022
+981,Rohit Banerjee,Female,41,Hyderabad,Marketing Professional,726574.43,08-04-2023
+982,Shilpa Banerjee,Male,41,Hyderabad,Doctor,1252657.95,03-01-2022
+983,Vikram Kapoor,Male,34,Lucknow,Software Engineer,2148193.81,05-10-2022
+984,Pradeep Joshi,Female,37,Ahmedabad,Accountant,408217.92,18-11-2022
+985,Ankit Rao,Female,41,Jaipur,Architect,1861644.81,NULL
+986,Naveen Yadav,Female,46,Kolkata,Architect,1086971.16,20-04-2024
+987,Vivek Jain,Male,48,Ahmedabad,Lawyer,2382611.93,03-06-2023
+988,Varsha Sharma,Female,45,Hyderabad,Teacher,327298.06,15-08-2024
+989,Simran Reddy,Male,44,Hyderabad,Government Employee,1136381.74,02-08-2023
+990,Neha Banerjee,Male,28,Kolkata,Business Owner,4272865.48,06-03-2024
+991,Kiran Jain,Male,43,Bhopal,Manager,846699.12,15-03-2022
+992,Rajesh Patel,Male,37,Hyderabad,Marketing Professional,788271.26,16-09-2023
+993,Pallavi Chopra,Male,31,Lucknow,Manager,1068694.88,16-11-2023
+994,Sanjay Saxena,Female,32,Bhopal,Farmer,299786.58,09-11-2024
+995,Ananya Chatterjee,Male,31,Bangalore,Business Owner,656257.72,15-07-2023
+996,Sonal Kulkarni,Female,24,Chennai,Doctor,1601429.17,17-10-2022
+997,Sonal Joshi,Male,40,Surat,Doctor,2218387.98,13-06-2023
+998,Apurva Kulkarni,Male,44,Nagpur,Marketing Professional,999110.11,27-08-2022
+999,Tanya Yadav,Male,29,Coimbatore,Sales Executive,585495.77,24-02-2023
+1000,Tanya Chaudhary,Male,31,Pune,Doctor,1542132.17,26-01-2023
+1001,Amit Reddy,Male,41,Indore,Software Engineer,969325.76,10-08-2024
+1002,Yamini Shah,Female,39,Chandigarh,Business Owner,1932111.49,16-04-2022
+1003,Lakshmi Chaudhary,Male,29,Indore,Freelancer,839843.77,NULL
+1004,Preeti Verma,Female,39,Delhi,Freelancer,1317574.01,03-02-2022
+1005,Neha Chatterjee,Male,46,Delhi,Manager,1844163.37,22-10-2022
+1006,Sumit Nair,Male,45,Pune,Business Owner,3049332.82,16-12-2022
+1007,Tanya Thakur,Female,33,Patna,Teacher,572075.44,13-07-2022
+1008,Naveen Yadav,Male,38,Jaipur,Retired,424902.16,28-05-2022
+1009,Ajay Mishra,Male,27,Delhi,Retired,436418.05,27-06-2023
+1010,Kavita Kulkarni,Male,48,Indore,Business Owner,4282510.27,09-06-2023
+1011,Kavita Singh,Female,32,Kolkata,Manager,826555.06,05-11-2023
+1012,Simran Patel,Female,45,Bangalore,Government Employee,918466.26,01-08-2024
+1013,Anjali Gupta,Male,36,Surat,Farmer,256719.36,16-06-2023
+1014,Swati Bose,Male,39,Patna,Architect,1320663.75,12-03-2023
+1015,Anjali Patil,Male,32,Patna,Architect,631131.03,01-01-2022
+1016,Dinesh Tiwari,Male,49,Indore,Doctor,3134419.1,28-03-2023
+1017,Lakshmi Kumar,Female,31,Ahmedabad,Business Owner,3305242.64,26-12-2023
+1018,Sumit Patil,Male,46,Kolkata,Teacher,369319.79,02-06-2023
+1019,Pradeep Kulkarni,Male,54,Bangalore,Architect,1640043.24,06-03-2022
+1020,Bhavna Banerjee,Male,48,Bangalore,Architect,1721659.94,26-02-2023
+1021,Preeti Mishra,Male,29,Nagpur,Accountant,1058991.16,05-09-2023
+1022,Nisha Thakur,Male,37,Mumbai,Teacher,531233.74,NULL
+1023,Pankaj Mukherjee,Male,46,Surat,Accountant,962665.32,10-10-2023
+1024,Nikhil Jain,Male,28,Coimbatore,Architect,1617261.1,05-03-2022
+1025,Komal Agarwal,Male,37,Bangalore,Business Owner,1657645.37,10-03-2022
+1026,Ritu Bose,Female,21,Chennai,Accountant,562846.43,07-07-2022
+1027,Harish Iyer,Male,38,Lucknow,Teacher,559084.71,20-08-2022
+1028,Komal Banerjee,Female,45,Delhi,Retired,394152.94,18-02-2023
+1029,Yash Thakur,Male,43,Delhi,Government Employee,527486.79,18-07-2022
+1030,Rahul Singh,Female,43,Bangalore,Marketing Professional,985841.97,06-02-2024
+1031,Ritu Pandey,Female,52,Bangalore,Sales Executive,660959.84,02-06-2023
+1032,Ravi Malhotra,Male,22,Chandigarh,Manager,1926110.78,NULL
+1033,Sapna Kapoor,Male,49,Bangalore,Doctor,2661481.16,05-08-2022
+1034,Priya Tiwari,Female,21,Nagpur,Government Employee,879857.05,18-10-2022
+1035,Sandeep Shah,Male,38,Jaipur,Freelancer,1172886.5,02-01-2024
+1036,Simran Singh,Male,48,Bhopal,Retired,363350.22,05-01-2023
+1037,Kunal Bose,Female,33,Pune,Marketing Professional,1448710.89,13-08-2023
+1038,Rekha Ghosh,Male,47,Delhi,Sales Executive,585133.07,09-10-2022
+1039,Varun Kapoor,Male,39,Lucknow,Farmer,408807.4,02-07-2023
+1040,Meena Joshi,Male,34,Kolkata,Accountant,1166786.89,03-09-2022
+1041,Pranav Ghosh,Male,63,Kolkata,Farmer,304840.98,14-03-2023
+1042,Naveen Chatterjee,Female,39,Surat,Teacher,344673.92,NULL
+1043,Tanya Saxena,Female,50,Indore,Freelancer,244046.19,19-10-2023
+1044,Pradeep Nair,Female,24,Chandigarh,Marketing Professional,922366,20-05-2023
+1045,Anjali Mukherjee,Female,23,Delhi,Doctor,2185197.77,20-11-2022
+1046,Pallavi Mehta,Male,27,Ahmedabad,Accountant,913274.01,24-05-2024
+1047,Kunal Jain,Female,33,Pune,Accountant,644438.03,05-02-2022
+1048,Ritu Mishra,Male,35,Pune,Farmer,357905.64,09-03-2022
+1049,Ajay Iyer,Male,30,Bhopal,Teacher,328065.56,NULL
+1050,Neha Patil,Male,33,Mumbai,Business Owner,2331374.39,16-07-2022
+1051,Meghna Iyer,Male,22,Chennai,Lawyer,2582477.39,28-07-2023
+1052,Shruti Naik,Male,22,Bangalore,Software Engineer,1481759.35,02-03-2022
+1053,Sapna Banerjee,Female,36,Coimbatore,Sales Executive,402073.73,06-09-2023
+1054,Vikram Chopra,Female,37,Ahmedabad,Farmer,385763.51,28-05-2022
+1055,Neha Mehta,Male,36,Ahmedabad,Farmer,434694.35,26-01-2023
+1056,Ajay Iyer,Male,54,Surat,Architect,901793.24,12-09-2022
+1057,Yamini Chatterjee,Female,36,Bhopal,Freelancer,389725.71,05-04-2023
+1058,Nisha Patel,Male,45,Pune,Architect,1557973.92,24-07-2022
+1059,Divya Banerjee,Female,32,Jaipur,Farmer,263136.09,NULL
+1060,Nikhil Singh,Male,23,Kolkata,Doctor,1466782.38,01-08-2022
+1061,Rupali Gupta,Male,61,Chandigarh,Retired,563290.61,NULL
+1062,Ananya Pandey,Male,37,Delhi,Architect,1133312.75,02-11-2022
+1063,Sneha Mukherjee,Male,43,Indore,Architect,851121.11,01-04-2023
+1064,Sandeep Kapoor,Male,48,Delhi,Marketing Professional,1030423.8,08-10-2023
+1065,Meena Banerjee,Male,46,Jaipur,Business Owner,2796526.72,21-02-2022
+1066,Shubham Jain,Male,36,Chennai,Architect,1761424.85,05-05-2023
+1067,Mansi Chatterjee,Male,21,Pune,Sales Executive,742121.54,10-04-2022
+1068,Suresh Saxena,Male,39,Coimbatore,Software Engineer,1190762.93,03-01-2022
+1069,Pallavi Shukla,Female,47,Patna,Manager,850831.26,12-11-2022
+1070,Sandeep Joshi,Male,30,Ahmedabad,Retired,397195.42,19-09-2023
+1071,Tarun Patil,Female,46,Ahmedabad,Farmer,249440.76,14-11-2022
+1072,Aarav Jain,Female,23,Chennai,Architect,1997206.38,25-09-2022
+1073,Pradeep Tiwari,Male,38,Hyderabad,Manager,1896537.16,12-03-2022
+1074,Manoj Mishra,Male,49,Bangalore,Manager,1185625.8,11-09-2022
+1075,Tarun Naik,Female,32,Indore,Retired,532279.69,10-02-2022
+1076,Deepa Mishra,Female,28,Pune,Software Engineer,1915493.69,09-07-2022
+1077,Nikhil Kumar,Male,40,Nagpur,Government Employee,1090623.08,02-03-2023
+1078,Mohit Malhotra,Female,30,Nagpur,Doctor,2316803.79,25-06-2024
+1079,Sonal Das,Female,40,Pune,Doctor,1257433.7,13-10-2022
+1080,Komal Ghosh,Female,47,Pune,Doctor,2035930.65,12-06-2022
+1081,Tanya Chatterjee,Female,43,Patna,Sales Executive,699312.18,18-11-2022
+1082,Shruti Patel,Female,27,Bhopal,Teacher,503375.68,22-10-2022
+1083,Usha Tiwari,Female,34,Kolkata,Architect,860898.17,27-04-2024
+1084,Harish Chaudhary,Male,34,Chandigarh,Accountant,948989.23,19-03-2022
+1085,Shilpa Ghosh,Male,21,Pune,Doctor,2013968.47,07-05-2023
+1086,Kunal Jain,Male,46,Delhi,Accountant,1122322.89,08-03-2022
+1087,Shruti Agarwal,Male,42,Jaipur,Lawyer,1098984.55,16-01-2022
+1088,Rohit Yadav,Male,39,Coimbatore,Sales Executive,452916.12,07-06-2022
+1089,Swati Ghosh,Male,39,Coimbatore,Business Owner,4059179.21,07-06-2024
+1090,Yamini Kapoor,Male,35,Chennai,Freelancer,1071337.83,16-02-2022
+1091,Manoj Banerjee,Male,37,Mumbai,Government Employee,548069.91,15-10-2023
+1092,Rajan Saxena,Male,24,Nagpur,Manager,851681.74,20-02-2022
+1093,Sumit More,Female,37,Bhopal,Farmer,380200.98,08-08-2022
+1094,Ananya Ghosh,Male,21,Pune,Marketing Professional,1173803.14,03-09-2023
+1095,Aditya Verma,Male,44,Pune,Software Engineer,1124363.54,18-07-2022
+1096,Varsha Iyer,Male,23,Coimbatore,Accountant,593424.17,01-08-2022
+1097,Harish Chatterjee,Female,43,Patna,Business Owner,2685551.99,12-03-2024
+1098,Apurva Malhotra,Male,38,Nagpur,Software Engineer,2261653.96,06-07-2022
+1099,Komal Agarwal,Female,53,Lucknow,Software Engineer,1367545.1,NULL
+1100,Tanya Yadav,Male,49,Patna,Software Engineer,1628744.07,19-02-2023
+1101,Priya Thakur,Male,27,Surat,Government Employee,971432.26,14-03-2022
+1102,Yamini Shukla,Male,36,Surat,Retired,246776.3,07-09-2022
+1103,Pallavi Chopra,Male,36,Indore,Software Engineer,1074266.84,20-10-2023
+1104,Meghna Mehta,Female,26,Nagpur,Architect,1794835.31,24-02-2023
+1105,Bhavna Nair,Female,30,Lucknow,Manager,1783004.97,11-09-2022
+1106,Shilpa Mehta,Male,23,Chennai,Marketing Professional,1249254.3,10-05-2024
+1107,Lakshmi Ghosh,Male,44,Delhi,Architect,1289060.03,07-03-2022
+1108,Shubham Shukla,Female,21,Chennai,Software Engineer,1409937.48,03-07-2024
+1109,Sneha Banerjee,Male,21,Kolkata,Farmer,450811.59,NULL
+1110,Tanya Kapoor,Female,37,Bhopal,Doctor,2773548.06,04-10-2022
+1111,Harish Yadav,Male,43,Hyderabad,Freelancer,260679.27,13-04-2023
+1112,Pallavi Mukherjee,Female,32,Hyderabad,Marketing Professional,550422.04,04-01-2022
+1113,Manoj Thakur,Male,22,Hyderabad,Doctor,3388626.71,04-06-2024
+1114,Dinesh Pandey,Male,25,Lucknow,Business Owner,3371674.91,25-03-2022
+1115,Pradeep Rao,Female,21,Indore,Marketing Professional,941517.91,05-06-2024
+1116,Sachin Chatterjee,Female,37,Mumbai,Farmer,198220.36,19-07-2022
+1117,Rajan Patel,Male,29,Surat,Government Employee,1067850.7,26-06-2023
+1118,Kunal Rao,Female,39,Chandigarh,Sales Executive,677664.24,17-05-2022
+1119,Ritu Mukherjee,Female,44,Chandigarh,Manager,1723380.46,16-01-2023
+1120,Amit Chatterjee,Male,46,Mumbai,Freelancer,1086858.23,03-06-2023
+1121,Priya Srivastava,Female,41,Chennai,Marketing Professional,1306246.87,03-10-2022
+1122,Suresh Rao,Female,36,Delhi,Manager,779908.83,20-01-2022
+1123,Vijay Agarwal,Male,44,Lucknow,Accountant,1184037.66,28-10-2022
+1124,Kavita Sharma,Female,21,Chandigarh,Marketing Professional,1242697.5,19-10-2022
+1125,Dinesh Desai,Female,34,Coimbatore,Architect,1888630.83,24-03-2024
+1126,Sonal Iyer,Female,27,Bangalore,Marketing Professional,845250.61,14-04-2023
+1127,Arjun Jain,Female,25,Lucknow,Software Engineer,1713636.94,06-10-2022
+1128,Isha Ghosh,Male,48,Chennai,Government Employee,474255.65,13-02-2022
+1129,Varun Ghosh,Female,41,Chandigarh,Software Engineer,847415.08,04-07-2023
+1130,Rekha Kapoor,Female,25,Bhopal,Doctor,3249561.26,13-08-2023
+1131,Sumit Patil,Female,34,Coimbatore,Doctor,1333652.04,18-06-2022
+1132,Apurva Patil,Female,33,Kolkata,Sales Executive,889770.34,27-03-2022
+1133,Harini Mehta,Female,28,Chandigarh,Sales Executive,479520.97,10-10-2022
+1134,Anjali Jain,Male,22,Bhopal,Marketing Professional,747633.33,26-03-2023
+1135,Rohit Patel,Male,33,Pune,Retired,239195.13,15-03-2023
+1136,Deepak Pandey,Female,21,Nagpur,Retired,285913.76,01-10-2022
+1137,Apurva Chaudhary,Female,41,Coimbatore,Architect,1382555.83,13-11-2022
+1138,Tanya Agarwal,Female,21,Pune,Marketing Professional,1431035.61,02-01-2022
+1139,Usha Jain,Male,36,Ahmedabad,Lawyer,1230522.34,25-12-2022
+1140,Naveen Thakur,Male,32,Hyderabad,Retired,389342.22,18-11-2022
+1141,Vijay Gupta,Male,45,Hyderabad,Architect,1793244.92,02-06-2024
+1142,Rekha Ghosh,Male,44,Mumbai,Sales Executive,482954.76,25-11-2022
+1143,Lokesh Das,Male,40,Patna,Freelancer,385730.21,03-08-2023
+1144,Kavita Kumar,Female,27,Surat,Software Engineer,1007957.44,22-11-2023
+1145,Neha Saxena,Female,21,Pune,Retired,429223.64,26-11-2022
+1146,Nisha Chatterjee,Female,29,Pune,Freelancer,380078.97,11-10-2022
+1147,Yamini Agarwal,Male,49,Nagpur,Farmer,404752.45,05-11-2023
+1148,Pallavi Bose,Female,45,Chennai,Sales Executive,624596.67,08-07-2023
+1149,Lokesh Thakur,Female,26,Bangalore,Marketing Professional,524804.09,NULL
+1150,Preeti Patil,Female,25,Chandigarh,Government Employee,1164134.66,12-01-2023
+1151,Varsha Reddy,Female,36,Jaipur,Government Employee,1000446.86,23-01-2024
+1152,Apurva Chatterjee,Male,37,Indore,Freelancer,467546.5,NULL
+1153,Sneha Banerjee,Male,21,Mumbai,Manager,1465560.93,26-03-2023
+1154,Neha Kapoor,Male,39,Hyderabad,Farmer,334765.61,19-08-2023
+1155,Ankit Rao,Male,42,Surat,Lawyer,1337205.58,08-02-2022
+1156,Vandana Mishra,Male,44,Delhi,Accountant,535352.84,16-10-2022
+1157,Anjali Kapoor,Male,33,Hyderabad,Teacher,425472.87,11-05-2022
+1158,Rupali Kulkarni,Male,47,Chandigarh,Software Engineer,1144351.08,01-06-2022
+1159,Priya Mukherjee,Male,45,Bangalore,Freelancer,855747.63,14-04-2022
+1160,Akash Verma,Male,35,Hyderabad,Retired,211562.58,26-07-2022
+1161,Jyoti Agarwal,Male,34,Chandigarh,Government Employee,1010382.64,09-05-2024
+1162,Sandeep Pandey,Male,33,Chennai,Government Employee,1026305.27,01-08-2022
+1163,Mansi Chatterjee,Male,62,Coimbatore,Freelancer,518709.93,27-02-2023
+1164,Rajan Sharma,Male,30,Patna,Farmer,367255.47,15-04-2022
+1165,Kavita Pillai,Male,43,Chandigarh,Teacher,519040.49,05-06-2022
+1166,Varsha Patil,Male,29,Bangalore,Teacher,270468.13,24-08-2022
+1167,Yash Banerjee,Male,45,Chandigarh,Manager,1607958.1,11-06-2022
+1168,Sneha Kapoor,Female,23,Coimbatore,Freelancer,613795.12,22-06-2023
+1169,Nisha Naik,Male,47,Pune,Teacher,360667.73,06-05-2022
+1170,Chetna Saxena,Male,37,Mumbai,Accountant,1137806.22,03-10-2022
+1171,Tanya Srivastava,Male,23,Bangalore,Accountant,538828.82,12-10-2022
+1172,Pallavi Joshi,Male,32,Nagpur,Lawyer,980463.55,21-04-2022
+1173,Vivek Joshi,Male,23,Ahmedabad,Farmer,360458.81,28-05-2023
+1174,Rahul Bose,Female,50,Bhopal,Retired,203745.32,18-02-2023
+1175,Nitin Chopra,Female,31,Bhopal,Government Employee,471973.22,04-02-2023
+1176,Chetna Pillai,Male,32,Nagpur,Software Engineer,1277285.81,25-08-2022
+1177,Isha Iyer,Female,27,Chennai,Doctor,3635765.45,21-04-2022
+1178,Sanjay Mehta,Male,33,Kolkata,Doctor,2846860.83,11-07-2022
+1179,Rahul Desai,Male,35,Coimbatore,Lawyer,2795137.05,01-04-2022
+1180,Vikas Mishra,Male,57,Surat,Software Engineer,2394413.63,11-04-2022
+1181,Archana Gupta,Female,26,Kolkata,Teacher,304772.96,09-06-2022
+1182,Swati Desai,Male,36,Mumbai,Software Engineer,1272486.15,27-09-2022
+1183,Amit Chopra,Female,49,Surat,Manager,952990.58,01-02-2022
+1184,Sachin Nair,Male,44,Bangalore,Doctor,3767586.62,11-06-2024
+1185,Amit Kulkarni,Female,48,Indore,Accountant,900235.76,13-05-2024
+1186,Manoj Saxena,Male,39,Indore,Farmer,237643.31,27-10-2023
+1187,Deepak Naik,Male,29,Hyderabad,Farmer,169051.5,27-04-2022
+1188,Vikram Patel,Female,53,Delhi,Accountant,757164.95,08-06-2022
+1189,Arjun Singh,Female,40,Coimbatore,Manager,1107263.26,06-08-2022
+1190,Komal Kumar,Male,35,Delhi,Software Engineer,1312500.83,25-06-2022
+1191,Yamini Agarwal,Male,43,Mumbai,Lawyer,1035728.17,11-09-2022
+1192,Shruti More,Male,29,Indore,Retired,353568.01,19-07-2023
+1193,Pooja Kulkarni,Male,40,Hyderabad,Accountant,1150067.88,NULL
+1194,Sanjay Kulkarni,Female,27,Ahmedabad,Software Engineer,1811797.68,11-10-2022
+1195,Shilpa More,Male,28,Kolkata,Architect,776374.28,10-04-2023
+1196,Nikhil Mehta,Male,37,Surat,Business Owner,4106912.57,15-03-2023
+1197,Preeti Rao,Male,38,Lucknow,Lawyer,3395327.51,16-12-2023
+1198,Rekha Sharma,Male,29,Pune,Architect,1080060.44,12-07-2022
+1199,Vikas Banerjee,Male,43,Ahmedabad,Software Engineer,1203558.5,14-03-2023
+1200,Sanjay Tiwari,Male,26,Patna,Accountant,1126800.17,11-04-2022

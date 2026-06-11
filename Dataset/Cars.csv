@@ -1,0 +1,126 @@
+Car_id,Brand,Model,Segment,Fuel_type,Transmission,Showroom_price,Cost_price
+1,Maruti,Alto K10,Hatchback,Petrol,Manual,460000,345000
+2,Maruti,S-Presso,Hatchback,Petrol,Manual,490000,365000
+3,Maruti,Celerio,Hatchback,Petrol,Auto,560000,420000
+4,Maruti,WagonR,Hatchback,Petrol,Auto,620000,465000
+5,Maruti,Swift,Hatchback,Petrol,Manual,720000,540000
+6,Maruti,Swift Dzire,Sedan,Petrol,Auto,790000,595000
+7,Maruti,Baleno,Hatchback,Petrol,Auto,850000,640000
+8,Maruti,Ignis,Hatchback,Petrol,Auto,680000,510000
+9,Maruti,Ciaz,Sedan,Petrol,Manual,940000,710000
+10,Maruti,Ertiga,SUV,Petrol,Auto,1020000,770000
+11,Maruti,XL6,SUV,Petrol,Auto,1160000,875000
+12,Maruti,Brezza,SUV,Petrol,Auto,1250000,920000
+13,Maruti,Grand Vitara,SUV,Petrol,Auto,1390000,1040000
+14,Maruti,Fronx,SUV,Petrol,Auto,1080000,810000
+15,Maruti,Invicto,SUV,Electric,Auto,2450000,1900000
+16,Hyundai,Grand i10 Nios,Hatchback,Petrol,Manual,640000,480000
+17,Hyundai,i20,Hatchback,Petrol,Auto,840000,630000
+18,Hyundai,Exter,SUV,Petrol,Manual,820000,615000
+19,Hyundai,Venue,SUV,Petrol,Auto,1050000,790000
+20,Hyundai,Creta,SUV,Diesel,Auto,1450000,1080000
+21,Hyundai,Creta Electric,SUV,Electric,Auto,1900000,1460000
+22,Hyundai,Alcazar,SUV,Diesel,Auto,2050000,1580000
+23,Hyundai,Tucson,SUV,Diesel,Auto,2850000,2200000
+24,Hyundai,Verna,Sedan,Petrol,Auto,1150000,860000
+25,Hyundai,Aura,Sedan,Petrol,Manual,760000,570000
+26,Hyundai,Ioniq 5,SUV,Electric,Auto,4600000,3700000
+27,Tata,Tiago,Hatchback,Petrol,Manual,580000,435000
+28,Tata,Tiago EV,Hatchback,Electric,Auto,990000,745000
+29,Tata,Altroz,Hatchback,Petrol,Manual,730000,550000
+30,Tata,Punch,Hatchback,Petrol,Manual,950000,720000
+31,Tata,Punch EV,SUV,Electric,Auto,1450000,1100000
+32,Tata,Nexon,SUV,Petrol,Auto,1350000,1010000
+33,Tata,Nexon EV,SUV,Electric,Auto,1750000,1300000
+34,Tata,Harrier,SUV,Diesel,Auto,2200000,1700000
+35,Tata,Safari,SUV,Diesel,Auto,2450000,1890000
+36,Tata,Tigor EV,Sedan,Electric,Auto,1240000,935000
+37,Tata,Curvv EV,SUV,Electric,Auto,2000000,1540000
+38,Mahindra,KUV100 NXT,Hatchback,Petrol,Manual,680000,510000
+39,Mahindra,Bolero,SUV,Diesel,Manual,1000000,755000
+40,Mahindra,Bolero Neo,SUV,Diesel,Manual,1120000,845000
+41,Mahindra,Thar,SUV,Diesel,Manual,1650000,1250000
+42,Mahindra,Thar Roxx,SUV,Diesel,Auto,2150000,1660000
+43,Mahindra,Scorpio Classic,SUV,Diesel,Manual,1470000,1110000
+44,Mahindra,Scorpio N,SUV,Diesel,Manual,1850000,1420000
+45,Mahindra,XUV300,SUV,Petrol,Auto,1100000,830000
+46,Mahindra,XUV400 EV,SUV,Electric,Auto,1600000,1220000
+47,Mahindra,XUV700,SUV,Diesel,Auto,2600000,2000000
+48,Mahindra,BE 6e,SUV,Electric,Auto,2750000,2120000
+49,Honda,Amaze,Sedan,Petrol,Auto,920000,690000
+50,Honda,City,Sedan,Petrol,Auto,1350000,1020000
+51,Honda,City Hybrid,Sedan,Electric,Auto,1950000,1500000
+52,Honda,Elevate,SUV,Petrol,Auto,1500000,1130000
+53,Toyota,Glanza,Hatchback,Petrol,Auto,840000,630000
+54,Toyota,Urban Cruiser Hyryder,SUV,Petrol,Auto,1500000,1130000
+55,Toyota,Rumion,SUV,Petrol,Auto,1090000,820000
+56,Toyota,Innova Crysta,SUV,Diesel,Auto,2100000,1620000
+57,Toyota,Innova HyCross,SUV,Electric,Auto,2800000,2170000
+58,Toyota,Fortuner,SUV,Diesel,Auto,3800000,2950000
+59,Toyota,Fortuner Legender,SUV,Diesel,Auto,4300000,3350000
+60,Toyota,Camry Hybrid,Sedan,Electric,Auto,4800000,3850000
+61,Toyota,Land Cruiser 300,SUV,Diesel,Auto,8500000,6800000
+62,Kia,Sonet,SUV,Petrol,Auto,1100000,830000
+63,Kia,Seltos,SUV,Diesel,Auto,1700000,1280000
+64,Kia,Carens,SUV,Diesel,Auto,1620000,1220000
+65,Kia,EV6,SUV,Electric,Auto,6000000,4800000
+66,MG,Hector,SUV,Petrol,Auto,1950000,1500000
+67,MG,Hector Plus,SUV,Petrol,Auto,2200000,1700000
+68,MG,ZS EV,SUV,Electric,Auto,2300000,1780000
+69,MG,Comet EV,Hatchback,Electric,Auto,800000,600000
+70,MG,Windsor EV,SUV,Electric,Auto,1400000,1060000
+71,MG,Gloster,SUV,Diesel,Auto,3900000,3030000
+72,Renault,Kwid,Hatchback,Petrol,Manual,550000,410000
+73,Renault,Triber,SUV,Petrol,Manual,740000,555000
+74,Renault,Kiger,SUV,Petrol,Auto,780000,585000
+75,Nissan,Magnite,SUV,Petrol,Auto,800000,600000
+76,Volkswagen,Polo,Hatchback,Petrol,Auto,850000,640000
+77,Volkswagen,Virtus,Sedan,Petrol,Auto,1400000,1060000
+78,Volkswagen,Taigun,SUV,Petrol,Auto,1500000,1130000
+79,Skoda,Slavia,Sedan,Petrol,Auto,1500000,1130000
+80,Skoda,Kushaq,SUV,Petrol,Auto,1450000,1090000
+81,Skoda,Kodiaq,SUV,Petrol,Auto,3500000,2720000
+82,Skoda,Superb,Sedan,Petrol,Auto,3800000,2970000
+83,Jeep,Compass,SUV,Diesel,Auto,2200000,1700000
+84,Jeep,Meridian,SUV,Diesel,Auto,3200000,2480000
+85,Jeep,Wrangler,SUV,Petrol,Auto,5900000,4720000
+86,BMW,2 Series Gran Coupe,Luxury,Petrol,Auto,3900000,3120000
+87,BMW,3 Series,Luxury,Petrol,Auto,4800000,3850000
+88,BMW,5 Series,Luxury,Petrol,Auto,6700000,5360000
+89,BMW,7 Series,Luxury,Petrol,Auto,9400000,7520000
+90,BMW,X1,Luxury,Petrol,Auto,4600000,3680000
+91,BMW,X3,Luxury,Diesel,Auto,6900000,5520000
+92,BMW,X5,Luxury,Diesel,Auto,9500000,7600000
+93,BMW,i4,Luxury,Electric,Auto,7200000,5760000
+94,BMW,iX,Luxury,Electric,Auto,11500000,9200000
+95,Mercedes,A-Class Limousine,Luxury,Petrol,Auto,4200000,3360000
+96,Mercedes,C-Class,Luxury,Petrol,Auto,5500000,4400000
+97,Mercedes,E-Class,Luxury,Petrol,Auto,7900000,6320000
+98,Mercedes,S-Class,Luxury,Petrol,Auto,14000000,11200000
+99,Mercedes,GLA,Luxury,Petrol,Auto,5400000,4320000
+100,Mercedes,GLC,Luxury,Diesel,Auto,7400000,5920000
+101,Mercedes,GLE,Luxury,Diesel,Auto,10500000,8400000
+102,Mercedes,EQB,Luxury,Electric,Auto,7000000,5600000
+103,Mercedes,EQS,Luxury,Electric,Auto,16000000,12800000
+104,Audi,A4,Luxury,Petrol,Auto,4900000,3920000
+105,Audi,A6,Luxury,Petrol,Auto,7200000,5760000
+106,Audi,A8 L,Luxury,Petrol,Auto,11700000,9360000
+107,Audi,Q3,Luxury,Petrol,Auto,4500000,3600000
+108,Audi,Q5,Luxury,Petrol,Auto,6800000,5440000
+109,Audi,Q7,Luxury,Diesel,Auto,9000000,7200000
+110,Audi,e-tron,Luxury,Electric,Auto,9400000,7520000
+111,Audi,Q8 e-tron,Luxury,Electric,Auto,11500000,9200000
+112,Lexus,ES 300h,Luxury,Electric,Auto,6200000,5000000
+113,Lexus,RX 500h,Luxury,Electric,Auto,9500000,7600000
+114,Lexus,LX 500d,Luxury,Diesel,Auto,21000000,16800000
+115,Volvo,XC40,Luxury,Petrol,Auto,5600000,4480000
+116,Volvo,XC60,Luxury,Diesel,Auto,7400000,5920000
+117,Volvo,XC90,Luxury,Petrol,Auto,10200000,8160000
+118,Volvo,C40 Recharge,Luxury,Electric,Auto,6600000,5280000
+119,Porsche,Cayenne,Luxury,Petrol,Auto,13500000,10800000
+120,Porsche,Macan Electric,Luxury,Electric,Auto,10000000,8000000
+121,Land Rover,Defender,Luxury,Diesel,Auto,12000000,9600000
+122,Land Rover,Range Rover Sport,Luxury,Diesel,Auto,16500000,13200000
+123,Jaguar,XE,Luxury,Petrol,Auto,5800000,4640000
+124,Jaguar,F-Pace,Luxury,Diesel,Auto,8200000,6560000
+125,Maserati,Ghibli,Luxury,Petrol,Auto,18000000,14400000

@@ -1,0 +1,21 @@
+Financing_id,Bank_name,Interest_Rate,Loan_tenure_months,Emi_amount
+1,"Punjab National Bank",11.73,36,33085.50
+2,"Federal Bank",9.80,72,18425.14
+3,"IndusInd Bank",10.72,72,18890.97
+4,"HDFC Bank",12.66,48,26659.05
+5,"IndusInd Bank",9.93,84,16565.04
+6,"Kotak Mahindra",10.24,36,32379.98
+7,"Punjab National Bank",9.24,72,18144.88
+8,"Punjab National Bank",10.70,84,16965.11
+9,"ICICI Bank",12.39,24,47255.81
+10,"Punjab National Bank",12.39,24,47255.81
+11,"Axis Bank",13.70,36,34032.10
+12,"Kotak Mahindra",13.68,72,20434.78
+13,"Kotak Mahindra",12.17,24,47152.90
+14,"Axis Bank",13.86,60,23195.73
+15,"Federal Bank",8.35,48,24577.55
+16,SBI,12.79,72,19963.44
+17,"Bank of Baroda",10.37,36,32441.18
+18,"Kotak Mahindra",8.95,24,45661.80
+19,"IndusInd Bank",7.69,84,15432.22
+20,"IndusInd Bank",10.17,84,16689.15
