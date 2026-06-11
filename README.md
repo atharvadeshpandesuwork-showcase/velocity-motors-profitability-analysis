@@ -74,6 +74,13 @@ Delhi North Showroom is recommended branch for expansion due to:
 
 ---
 
+### Snapshots
+
+#### Branch Revenue Comparison
+![Branch Revenue Comparison](Snapshots/branch-revenue-comparison.png)
+
+#### Revenue Contribution %
+
 
 
 
