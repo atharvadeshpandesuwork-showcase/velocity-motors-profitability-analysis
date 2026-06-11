@@ -162,3 +162,110 @@
 | Interested_Car_Segment | SUV, Sedan, Hatchback, Luxury |
 | Conversion_Date | Date lead converted into a sale |
 
+## Database Relationships
+
+The Velocity Motors database follows a relational model with **Sales** as the central transaction table connected to customers, vehicles, branches, salespersons, and financing information.
+
+### Customer Relationships
+
+| Parent Table | Child Table | Relationship |
+|-------------|-------------|-------------|
+| Customer | Sales | One customer can purchase multiple vehicles |
+| Customer | Leads | One customer can generate multiple leads |
+| Customer | Test_Drives | One customer can schedule multiple test drives |
+| Customer | Service | One customer can have multiple service records |
+
+**Relationship Type:** One-to-Many (1:N)
+
+---
+
+### Branch Relationships
+
+| Parent Table | Child Table | Relationship |
+|-------------|-------------|-------------|
+| Branches | Sales | One branch can process many sales |
+| Branches | Inventory | One branch can hold many vehicles in stock |
+| Branches | Salespersons | One branch can employ multiple salespersons |
+| Branches | Leads | One branch can receive multiple leads |
+| Branches | Test_Drives | One branch can conduct multiple test drives |
+
+**Relationship Type:** One-to-Many (1:N)
+
+---
+
+### Vehicle Relationships
+
+| Parent Table | Child Table | Relationship |
+|-------------|-------------|-------------|
+| Cars | Sales | One vehicle model can be sold multiple times |
+| Cars | Inventory | Vehicles are stocked across branches |
+| Cars | Test_Drives | Vehicles can be used for multiple test drives |
+| Cars | Service | Vehicles can have multiple service records |
+
+**Relationship Type:** One-to-Many (1:N)
+
+---
+
+### Salesperson Relationships
+
+| Parent Table | Child Table | Relationship |
+|-------------|-------------|-------------|
+| Salespersons | Sales | One salesperson can make multiple sales |
+| Salespersons | Leads | One salesperson can manage multiple leads |
+
+**Relationship Type:** One-to-Many (1:N)
+
+---
+
+### Marketing Relationships
+
+| Parent Table | Child Table | Relationship |
+|-------------|-------------|-------------|
+| Marketing | Leads | One marketing campaign can generate multiple leads |
+
+**Relationship Type:** One-to-Many (1:N)
+
+---
+
+### Financing Relationships
+
+| Parent Table | Child Table | Relationship |
+|-------------|-------------|-------------|
+| Financing | Sales | One financing plan can be associated with multiple vehicle sales |
+
+**Relationship Type:** One-to-Many (1:N)
+
+---
+
+## Database Flow
+
+Customer
+│
+├── Generates Leads
+│
+├── Books Test Drive
+│
+├── Purchases Vehicle
+│       │
+│       ├── Salesperson
+│       ├── Branch
+│       ├── Vehicle
+│       └── Financing
+│
+└── Service Record
+
+Marketing Campaign
+        │
+        ▼
+      Leads
+        │
+        ▼
+   Vehicle Sale
+
+Inventory
+        │
+        ▼
+      Sales
+
+### DB Sturcture Snapshot
+
