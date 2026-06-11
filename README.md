@@ -90,6 +90,11 @@ Delhi North Showroom is recommended branch for expansion due to:
 ### Gross Margin Comparison
 ![Gross Margin Comparison](Snapshots/gross-margin-analysis.png)
 
+### Net Profit Analysis Mumbai Showroom 2023 and 2024
+![Net Profit Analysis Mumbai Showroom 2023](Snapshots/net-profit-analysis-mum-23.png)
+
+![Net Profit Analysis Mumbai Showroom 2024](Snapshots/net-profit-analysis-mum-24.png)
+
 
 
 
