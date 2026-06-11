@@ -84,24 +84,32 @@ Delhi North Showroom is recommended branch for expansion due to:
 
 ![Revenue Contribution %](Snapshots/branch-wise-revenue-contributions(1).png)
 
-### Premium vs Standard Vehicle revenue
+#### Premium vs Standard Vehicle revenue
 ![Premium vs Standard Vehicle revenue](Snapshots/premium-vs-standard-vehicle-revenue.png)
 
-### Gross Margin Comparison
+#### Gross Margin Comparison
 ![Gross Margin Comparison](Snapshots/gross-margin-analysis.png)
 
-### Net Profit Analysis Mumbai Showroom 2023 and 2024
+#### Net Profit Analysis Mumbai Showroom 2023 and 2024
 ![Net Profit Analysis Mumbai Showroom 2023](Snapshots/net-profit-analysis-mum-23.png)
 
 ![Net Profit Analysis Mumbai Showroom 2024](Snapshots/net-profit-analysis-mum-24.png)
 
-### Net Profit Analysis Dehi Showroom 2023 and 2024
+#### Net Profit Analysis Dehi Showroom 2023 and 2024
 ![Net Profit Analysis Mumbai Showroom 2023](Snapshots/net-profit-analysis-del-23.png)
 
 ![Net Profit Analysis Mumbai Showroom 2024](Snapshots/net-profit-analysis-del-24.png)
 
-### Overall Summary of Net Profit Mumbai and Delhi Showroom for 2023 and 2024
+#### Overall Summary of Net Profit Mumbai and Delhi Showroom for 2023 and 2024
 ![Net Profit Analysis by showroom](Snapshots/net-profit-analysis-by-showroom.png)
+
+#### Expansion Recomendation
+
+![Expansion Recomendation](Snapshots/expansion-recomendation.png)
+
+![Expansion Recomendation](Snapshots/expansion-recomendation(1).png)
+
+
 
 
 
