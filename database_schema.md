@@ -237,35 +237,29 @@ The Velocity Motors database follows a relational model with **Sales** as the ce
 
 ---
 
-## Database Flow
+## Database Workflow
 
-Customer
-│
-├── Generates Leads
-│
-├── Books Test Drive
-│
-├── Purchases Vehicle
-│       │
-│       ├── Salesperson
-│       ├── Branch
-│       ├── Vehicle
-│       └── Financing
-│
-└── Service Record
+```mermaid
+flowchart TD
 
-Marketing Campaign
-        │
-        ▼
-      Leads
-        │
-        ▼
-   Vehicle Sale
+    Marketing --> Leads
+    Customer --> Leads
+    Leads --> TestDrives
+    TestDrives --> Sales
 
-Inventory
-        │
-        ▼
-      Sales
+    Customer --> Sales
 
+    Sales --> Cars
+    Sales --> Branches
+    Sales --> Salespersons
+    Sales --> Financing
+
+    Inventory --> Sales
+
+    Customer --> Service
+    Cars --> Service
+```
 ### DB Sturcture Snapshot
+
+![Database Structure](Snapshots/Blinit-DB-Structure.png)
 
